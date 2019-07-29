@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "headerSearch":"../../components/headerSearch/headerSearch"
+  }
+}

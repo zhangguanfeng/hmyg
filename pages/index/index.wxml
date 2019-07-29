@@ -1,0 +1,16 @@
+<headerSearch></headerSearch>
+<!-- 轮播图 -->
+<view class="slideshow">
+  <swiper indicator-dots="{{true}}" autoplay="{{true}}" interval="{{5000}}" duration="{{500}}">
+    <block 
+    wx:for="{{swiperList}}"
+    wx:key="goods_id"
+    >
+      <swiper-item>
+        <navigator >
+          <image class="swiper-image" src="{{item}}" />
+        </navigator>
+      </swiper-item>
+    </block>
+  </swiper>
+</view>
