@@ -1,0 +1,53 @@
+.categories{
+  display: flex;
+  height: ~'calc(100vh - 90rpx)';
+  .categories_zuo{
+  // height: ~'calc(100vh - 90rpx)';
+
+    flex: 1;  
+    .titleList{
+      // padding: 10rpx;
+      height: 80rpx;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 30rpx;
+      
+    }
+    .colors{
+      border-left: 2rpx solid red;
+      color: red;
+    }
+  }
+  .categories_you{
+  // height: ~'calc(100vh - 90rpx)';
+
+    flex:3;
+    // background:red;
+    .biaoti{
+      height: 80rpx;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .title{
+        padding: 0 10rpx;
+        font-size: 32rpx;
+      }
+    }
+    .goods_list{
+      display: flex;
+      flex-wrap: wrap;
+      navigator{
+        text-align: center;
+        width: 33.33%;
+        image{
+          width: 50%;
+        }
+      }
+      .goods_name{
+        font-size: 24rpx;
+      }
+    }
+  }
+
+}

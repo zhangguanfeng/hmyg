@@ -35,7 +35,7 @@
         "selectedIconPath": "static/tabs/home-o.png"
       },
       {
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/category/index",
         "text": "分类",
         "iconPath": "static/tabs/category.png",
         "selectedIconPath": "static/tabs/category-o.png"

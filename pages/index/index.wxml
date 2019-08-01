@@ -2,15 +2,38 @@
 <!-- 轮播图 -->
 <view class="slideshow">
   <swiper indicator-dots="{{true}}" autoplay="{{true}}" interval="{{5000}}" duration="{{500}}">
-    <block 
-    wx:for="{{swiperList}}"
-    wx:key="goods_id"
-    >
+    <block wx:for="{{swiperList}}" wx:key="goods_id">
       <swiper-item>
-        <navigator >
-          <image class="swiper-image" src="{{item}}" />
+        <navigator>
+          <image class="swiper-image" mode='widthFix' src="{{item.image_src}}" />
         </navigator>
       </swiper-item>
     </block>
   </swiper>
+</view>
+<!-- 导航栏 -->
+<view class="nav">
+  <navigator class="navImage" wx:for="{{navList}}" wx:key="name">
+    <image src="{{item.image_src}}" mode="widthFix" />
+  </navigator>
+</view>
+<!-- 楼层商品 -->
+<view class="goods" wx:for="{{goodsLIst}}" wx:for-item="item1" wx:for-index="index1" wx:key="{{item1.name}}">
+  <!-- 标题部分 -->
+  <view class="goods_s">
+    <image mode="widthFix" src="{{item1.floor_title.image_src}}" />
+  </view>
+  <!-- 商品内容部分 -->
+  <view class="goods_x">
+    <navigator 
+    class="goods_image"
+    wx:for="{{item1.product_list}}"
+    wx:for-index="index2"
+    wx:for-item="item2"
+    wx:key="item"
+    >
+      <image src="{{item2.image_src}}" 
+      mode="scaleToFill" />
+    </navigator>
+  </view>
 </view>

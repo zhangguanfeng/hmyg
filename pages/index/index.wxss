@@ -1,0 +1,34 @@
+.slideshow swiper {
+  height: 340rpx;
+}
+.nav {
+  display: flex;
+}
+.nav .navImage {
+  flex: 1;
+  padding: 25rpx;
+}
+.goods .goods_s {
+  padding-top: 10rpx;
+}
+.goods .goods_x {
+  padding: 0 10rpx;
+  overflow: hidden;
+}
+.goods .goods_x .goods_image {
+  width: 33.333%;
+  float: left;
+}
+.goods .goods_x .goods_image:nth-child(1) {
+  height: 415.94827586rpx;
+}
+.goods .goods_x .goods_image:nth-last-child(-n+4) {
+  height: 207.97413793rpx;
+  border-left: 10rpx solid #fff;
+}
+.goods .goods_x .goods_image:nth-last-child(-n+2) {
+  border-top: 10rpx solid #fff;
+}
+.goods .goods_x .goods_image image {
+  height: 100%;
+}

@@ -1,1 +1,45 @@
-/* pages/category/index.wxss */
+.categories {
+  display: flex;
+  height: calc(100vh - 90rpx);
+}
+.categories .categories_zuo {
+  flex: 1;
+}
+.categories .categories_zuo .titleList {
+  height: 80rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30rpx;
+}
+.categories .categories_zuo .colors {
+  border-left: 2rpx solid red;
+  color: red;
+}
+.categories .categories_you {
+  flex: 3;
+}
+.categories .categories_you .biaoti {
+  height: 80rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.categories .categories_you .biaoti .title {
+  padding: 0 10rpx;
+  font-size: 32rpx;
+}
+.categories .categories_you .goods_list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.categories .categories_you .goods_list navigator {
+  text-align: center;
+  width: 33.33%;
+}
+.categories .categories_you .goods_list navigator image {
+  width: 50%;
+}
+.categories .categories_you .goods_list .goods_name {
+  font-size: 24rpx;
+}
