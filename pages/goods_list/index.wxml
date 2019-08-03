@@ -1,2 +1,19 @@
-<!--pages/goods_list/index.wxml-->
-<text>pages/goods_list/index.wxml</text>
+<headerSearch></headerSearch>
+<tabes Tabes="{{Tabes}}" bind:handleIndex='handleIndex'>
+  <block wx:if="{{Tabes[0].isActive}}">
+    <navigator class="goods_list" wx:for="{{goods_list}}" wx:key="item" url="/pages/goods_detail/index?goods_id={{item.goods_id}}">
+      <!-- 左侧图片 -->
+      <view class="goods_image">
+        <!-- <image mode="widthFix" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1564641247714&di=884595e8d8ae44ea53a71114fc0b1c96&imgtype=0&src=http%3A%2F%2Fyanshi.sucaihuo.com%2Fmodals%2F40%2F4095%2Fbig.jpg" /> -->
+        <image mode="widthFix" src="{{item.goods_small_logo||'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1564641247714&di=884595e8d8ae44ea53a71114fc0b1c96&imgtype=0&src=http%3A%2F%2Fyanshi.sucaihuo.com%2Fmodals%2F40%2F4095%2Fbig.jpg'}}" />
+      </view>
+      <!-- 右侧描述 -->
+      <view class="goods_contens">
+        <view class="goods_contens_m">{{item.goods_name}}</view>
+        <view class="goods_contens_q">￥{{item.goods_price}}</view>
+      </view>
+    </navigator>
+  </block>
+  <block wx:elif="{{Tabes[1].isActive}}">2</block>
+  <block wx:elif="{{Tabes[2].isActive}}">3</block>
+</tabes>

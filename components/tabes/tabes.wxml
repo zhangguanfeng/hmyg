@@ -1,0 +1,13 @@
+<view class="tabes">
+  <view class="tabes_tital">
+    <view class="{{item.isActive?'setColor':''}}"
+    wx:for="{{Tabes}}"
+    wx:key="id"
+    data-index='{{index}}'
+    bind:tap="handleIndex"
+    >{{item.title}}</view>
+  </view>
+  <view class="tabes_content">
+  <slot ></slot>
+  </view>
+</view>

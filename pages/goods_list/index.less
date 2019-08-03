@@ -1,0 +1,29 @@
+.goods_list{
+  display: flex;
+  .goods_image{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20rpx;
+  }
+  .goods_contens{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex:2;
+    .goods_contens_m{
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      -webkit-line-clamp: 2;
+      color: #000;
+      font-size: 30rpx;
+    }
+    .goods_contens_q{
+      color: var(--setColor);
+      font-size: 36rpx;
+      font-weight: 500;
+    }
+  }
+}

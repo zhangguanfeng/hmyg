@@ -16,7 +16,7 @@
     
   ],
   "window": {
-    "backgroundTextStyle": "light",
+    "backgroundTextStyle": "dark",
     "navigationBarBackgroundColor": "#eb4450",
     "navigationBarTitleText": "黑马优购",
     "navigationBarTextStyle": "white"
@@ -41,13 +41,13 @@
         "selectedIconPath": "static/tabs/category-o.png"
       },
       {
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/cart/index",
         "text": "购物车",
         "iconPath": "static/tabs/cart.png",
         "selectedIconPath": "static/tabs/cart-o.png"
       },
       {
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/user/index",
         "text": "我的",
         "iconPath": "static/tabs/my.png",
         "selectedIconPath": "static/tabs/my-o.png"

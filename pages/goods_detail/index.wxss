@@ -1,1 +1,95 @@
-/* pages/goods_detail/index.wxss */
+page {
+  padding: 0 10rpx;
+  padding-bottom: 90rpx;
+}
+.detail_swoper swiper {
+  height: 57vw;
+  text-align: center;
+}
+.detail_swoper swiper .swiper-image {
+  width: 50%;
+}
+.jiage {
+  padding: 20rpx 10rpx;
+  font-size: 36rpx;
+  font-weight: 500;
+  color: var(--setColor);
+}
+.shouchang {
+  border-bottom: 10rpx solid #dedede;
+  display: flex;
+}
+.shouchang .shouchang_wenzi {
+  flex: 4;
+  font-size: 28rpx;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+.shouchang .shouchang_tital {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border-left: 2rpx solid #666;
+}
+.shouchang .shouchang_tital text {
+  font-size: 40rpx;
+}
+.shouchang .shouchang_tital .icon_name {
+  font-size: 24rpx;
+}
+.goods_detail .goods_detail_tital {
+  font-size: 40rpx;
+  font-weight: 600;
+  padding: 20rpx 10rpx;
+  border-bottom: 2rpx solid #000;
+  color: var(--setColor);
+}
+.tool {
+  display: flex;
+  position: fixed;
+  height: 90rpx;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  background: #fff;
+  border-top: 2rpx solid #dedede;
+}
+.tool .tool_item {
+  font-size: 24rpx;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+}
+.tool .tool_item button {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+.tool .cat {
+  flex: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: orange;
+  font-weight: 600;
+  color: #fff;
+}
+.tool .buy {
+  flex: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: orangered;
+  font-weight: 600;
+  color: #fff;
+}

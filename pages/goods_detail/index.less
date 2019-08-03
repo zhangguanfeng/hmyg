@@ -1,0 +1,106 @@
+page {
+  padding: 0 10rpx;
+  padding-bottom: 90rpx;
+}
+// 轮播图
+.detail_swoper {
+  swiper {
+    height: 57vw;
+    text-align: center;
+    .swiper-image {
+      width: 50%;
+    }
+  }
+}
+// 价格
+.jiage {
+  padding: 20rpx 10rpx;
+
+  font-size: 36rpx;
+  font-weight: 500;
+  color: var(--setColor);
+}
+// 收藏
+.shouchang {
+  border-bottom: 10rpx solid #dedede;
+
+  display: flex;
+  .shouchang_wenzi {
+    flex: 4;
+    font-size: 28rpx;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+  .shouchang_tital {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-left: 2rpx solid #666;
+    text{
+      font-size: 40rpx;
+    }
+    .icon_name{
+      font-size: 24rpx;
+    }
+  }
+}
+// 商品详情
+.goods_detail{
+  .goods_detail_tital{
+    font-size: 40rpx;
+    font-weight: 600;
+    padding: 20rpx 10rpx;
+    border-bottom:2rpx solid #000;
+    color: var(--setColor);
+  }
+}
+// 工具栏
+.tool{
+  display: flex;
+  position: fixed;
+  height: 90rpx;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  background: #fff;
+  border-top: 2rpx solid #dedede;
+  .tool_item{
+    font-size: 24rpx;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    button{
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      left: 0;
+      top: 0;
+      opacity: 0;
+    }
+  }
+  .cat{
+    flex:2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: orange;
+    font-weight: 600;
+    color: #fff
+  }
+  .buy{
+    flex:2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: orangered;
+    font-weight: 600;
+    color: #fff
+  }
+}

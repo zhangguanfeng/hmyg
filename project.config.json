@@ -48,12 +48,34 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 0,
+			"current": 3,
 			"list": [
 				{
 					"id": -1,
 					"name": "分页",
 					"pathName": "pages/category/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 1,
+					"name": "详情列表",
+					"pathName": "pages/goods_list/index",
+					"query": "cid=5",
+					"scene": null
+				},
+				{
+					"id": 2,
+					"name": "商品详情",
+					"pathName": "pages/goods_detail/index",
+					"query": "goods_id=43986",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "购物车",
+					"pathName": "pages/cart/index",
+					"query": "",
 					"scene": null
 				}
 			]

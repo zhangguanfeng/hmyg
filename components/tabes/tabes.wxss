@@ -1,0 +1,17 @@
+.tabes .tabes_tital {
+  border-bottom: 1rpx solid #dedede;
+
+  display: flex;
+}
+.tabes .tabes_tital .setColor {
+  color: var(--setColor);
+  border-bottom: 2rpx solid var(--setColor);
+}
+.tabes .tabes_tital view {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20rpx 0 ;
+  font-size: 32rpx;
+}
