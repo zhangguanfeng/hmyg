@@ -1,2 +1,56 @@
-<!--pages/user/index.wxml-->
-<text>pages/user/index.wxml</text>
+<view class="user_bg">
+  <!-- 背景图片 -->
+    <image class="user_bgimg" mode="widthFix" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565610703&di=11423cd8e04da7b439a408e9de4f0987&imgtype=jpg&er=1&src=http%3A%2F%2Fimg6.ph.126.net%2FsZ5v-LKYdgYaiIV3mh9O8w%3D%3D%2F6597283071912142766.jpg" />
+  <!-- 头像和名称 -->
+  <view class="user_icon">
+    <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565610703&di=11423cd8e04da7b439a408e9de4f0987&imgtype=jpg&er=1&src=http%3A%2F%2Fimg6.ph.126.net%2FsZ5v-LKYdgYaiIV3mh9O8w%3D%3D%2F6597283071912142766.jpg" />
+    <view class="user_name">你好啊</view>
+  </view>
+</view>
+<view >
+  <view class="user_content">
+    <view class="user_main">
+      <!-- 收藏部分 -->
+      <view class="history_item">
+        <navigator>
+          <view class="his_num">1</view>
+          <view class="his_name">收藏的店铺</view>
+        </navigator>
+        <navigator>
+          <view class="his_num">1</view>
+          <view class="his_name">收藏的商品</view>
+        </navigator>
+        <navigator>
+          <view class="his_num">1</view>
+          <view class="his_name">关注的商品</view>
+        </navigator>
+        <navigator>
+          <view class="his_num">1</view>
+          <view class="his_name">我的足迹</view>
+        </navigator>
+      </view>
+      <!-- 订单部分 -->
+      <view class="order_item">
+        <view class="order_title">我的订单</view>
+        <view class="order_content">
+          <navigator url="/pages/order/index?type=0">
+            <text class="iconfont icon-ding_dan"></text>
+            <view class="order_name">全部订单</view>
+          </navigator>
+          <navigator url="/pages/order/index?type=1">
+            <text class="iconfont icon-fukuantongzhi"></text>
+            <view class="order_name">待付款</view>
+          </navigator>
+          <navigator url="/pages/order/index?type=2">
+            <text class="iconfont icon-receipt-address"></text>
+            <view class="order_name">待收款</view>
+          </navigator>
+          <navigator url="/pages/order/index?type=3">
+            <text class="iconfont icon-tuihuotuikuan_dianpu"></text>
+            <view class="order_name">退款/退货</view>
+          </navigator>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

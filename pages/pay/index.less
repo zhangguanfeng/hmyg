@@ -1,0 +1,122 @@
+.tital_warp {
+  .but {
+    padding: 20rpx 0;
+    button {
+      width: 50%;
+    }
+  }
+}
+.address_user {
+  display: flex;
+  padding: 20rpx;
+  .user {
+  }
+  .phone {
+    flex: 1;
+    // display: flex;
+    text-align: right;
+  }
+}
+.cart_main {
+  .cart_title {
+    padding: 20rpx 10rpx;
+    color: var(--setColor);
+    font-size: 34rpx;
+    font-weight: 600;
+    border-top: 2rpx solid var(--setColor);
+    border-bottom: 2rpx solid var(--setColor);
+  }
+  .cart_content {
+    display: flex;
+    padding: 20rpx;
+    border-bottom: 2rpx solid #ccc;
+    // justify-content: center;
+    // align-items: center;
+    // 勾选框
+    // 图片
+    .cart_img {
+      image {
+        width: 80%;
+      }
+      flex: 2;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    // 内容描述
+    .cart_info {
+      flex: 4;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      .goods_name {
+        display: -webkit-box;
+        overflow: hidden;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+      }
+      .goods_price {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 20rpx;
+        .price {
+          font-size: 40rpx;
+          color: var(--setColor)
+        }
+        .cart_tool {
+          display: flex;
+          .cart_num{
+            padding: 0 20rpx;
+            width: 40rpx;
+            height: 40rpx;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+          }
+        }
+      }
+    }
+  }
+}
+.btm_tool{
+  display: flex;
+  width: 100%;
+  height: 90rpx;
+  background: #fff;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  border-top: 1rpx solid #ccc;
+  .all_check{
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .all_price{
+    flex: 5;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 20rpx;
+    .all_prices{
+      text{
+      color: var(--setColor)
+      }
+      font-size: 30rpx;
+    }
+    .tips{
+      text-align: right;
+    }
+  }
+  .cart_pay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 2;
+    font-size: 34rpx;
+    font-weight: 500;
+    color: #fff;
+    background:red;
+  }
+}

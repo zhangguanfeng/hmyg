@@ -1,0 +1,69 @@
+page{
+  background: #dedede;
+}
+.user_bg{
+  height: 45vh;
+  overflow: hidden;
+  position: relative;
+  .user_bgimg{  
+    filter: blur(15rpx)
+  }
+  .user_icon{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    image{
+      width: 160rpx;
+      height: 160rpx;
+      border-radius: 50%;
+    }
+    .user_name{
+      color: #fff;
+      text-align: center;
+    }
+  }
+}
+.user_content{
+  position: relative;
+}
+.user_main{
+  position: absolute;
+  width: 90%;
+  left: 50%;
+  top: -50rpx;
+  transform: translateX(-50%);
+  .history_item{
+    padding: 20rpx 0;
+    background: #fff;
+    display: flex;
+    text-align: center;
+    navigator{
+      flex: 1;
+      
+      .his_num{
+        color: var(--setColor)
+      }
+      .his_name{}
+    }
+  }
+}
+.order_item{
+  margin-top: 20rpx;
+  .order_title{
+    padding: 30rpx 20rpx;
+    border-bottom: 1rpx solid #dedede
+  }
+  background: #fff;
+  .order_content{
+    padding: 20rpx 0;
+    display: flex;
+    text-align: center;
+    navigator{
+      flex: 1;
+      text{
+        color: var(--setColor)
+      }
+    }
+  }
+}

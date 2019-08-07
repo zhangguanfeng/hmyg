@@ -1,1 +1,67 @@
-/* pages/user/index.wxss */
+page {
+  background: #dedede;
+}
+.user_bg {
+  height: 45vh;
+  overflow: hidden;
+  position: relative;
+}
+.user_bg .user_bgimg {
+  filter: blur(15rpx);
+}
+.user_bg .user_icon {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.user_bg .user_icon image {
+  width: 160rpx;
+  height: 160rpx;
+  border-radius: 50%;
+}
+.user_bg .user_icon .user_name {
+  color: #fff;
+  text-align: center;
+}
+.user_content {
+  position: relative;
+}
+.user_main {
+  position: absolute;
+  width: 90%;
+  left: 50%;
+  top: -50rpx;
+  transform: translateX(-50%);
+}
+.user_main .history_item {
+  padding: 20rpx 0;
+  background: #fff;
+  display: flex;
+  text-align: center;
+}
+.user_main .history_item navigator {
+  flex: 1;
+}
+.user_main .history_item navigator .his_num {
+  color: var(--setColor);
+}
+.order_item {
+  margin-top: 20rpx;
+  background: #fff;
+}
+.order_item .order_title {
+  padding: 30rpx 20rpx;
+  border-bottom: 1rpx solid #dedede;
+}
+.order_item .order_content {
+  padding: 20rpx 0;
+  display: flex;
+  text-align: center;
+}
+.order_item .order_content navigator {
+  flex: 1;
+}
+.order_item .order_content navigator text {
+  color: var(--setColor);
+}

@@ -22,7 +22,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.7.7",
-	"appid": "wxc1617450e8718ada",
+	"appid": "wxfb52f2d7b2f6123a",
 	"projectname": "hmyg",
 	"debugOptions": {
 		"hidedInDevtools": []
@@ -48,7 +48,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 3,
+			"current": 6,
 			"list": [
 				{
 					"id": -1,
@@ -76,6 +76,27 @@
 					"name": "购物车",
 					"pathName": "pages/cart/index",
 					"query": "",
+					"scene": null
+				},
+				{
+					"id": 4,
+					"name": "授权",
+					"pathName": "pages/auth/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "个人中心",
+					"pathName": "pages/user/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 6,
+					"name": "订单查询",
+					"pathName": "pages/order/index",
+					"query": "type=0",
 					"scene": null
 				}
 			]
