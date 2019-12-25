@@ -1,0 +1,76 @@
+@import '@/style/mixin.scss';
+.al-footer-wrap {
+  width: 100%;
+  min-width: auto;
+  .copyright{
+    font-size: 0.14rem;
+    margin: 0.2rem 0 0.4rem 0;
+  }
+  .index{
+    .pc{
+      display: none;
+    }
+    .h5{
+      display: block;
+    }
+    width: 90%;
+    height: 4rem;
+    .list{
+      width: 100%;
+      padding-top:0.6rem;
+      tr{
+        font-size: 0.22rem;
+        th{
+          margin-bottom: 0.24rem;
+        }
+        td{
+          padding-bottom: 0.2rem;
+        }
+        .logo{
+          width: 1.26rem;
+          height: 0.36rem;
+        }
+        .margin{
+          margin: 0;
+        }
+        .xiao{
+          font-size: 0.12rem;
+          display: none;
+        }
+        .white {
+
+          .desc {
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            .icon {
+              
+              width: 0.5rem;
+              height: 0.5rem;
+              margin: 0 auto;
+              margin-bottom: 0.25rem;
+              &:nth-child(1){
+                margin-bottom: 0.4rem;
+              }
+              h5{
+                display: none;
+              }
+              img {
+                width: 100%;
+              }
+            }
+          }
+          .icon{
+             &:hover{
+              .code_box{
+                display: none;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,154 @@
+.en {
+  // 首页
+  .al-home-wrap {
+    // 旋转部分
+    .run-circle {
+      .circle-wrap .single-circel {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .title {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding: 0 0 20px 0;
+
+          width: 150px;
+        }
+        .content {
+          display: none;
+        }
+      }
+    }
+    .home-swiper .en{
+      display: block;
+    }
+    .home-swiper .cn{
+      display: none;
+    }
+    .about-us-wrap .about-tip {
+      line-height: 30px;
+    }
+    .develop-wrap .time-line > ul > li > ul .event-pointer > div span {
+      // display: inline-block;
+      // white-space: nowrap;
+      // width: 140px;
+      // overflow: hidden;
+      // text-overflow: ellipsis;
+      white-space: pre-wrap;
+      width: 315px;
+      text-align: left;
+      text-indent: 0;
+    }
+    .serve .index p {
+      line-height: 30px;
+    }
+    .serve .index .img{
+      background: url('/img/en_home_serve1.png');
+      background-size: 100% 100%;
+    }
+    .news .news_index .con .right .right_con ul li .right_con_title {
+      display: inline-block;
+      white-space: nowrap;
+      width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .news .news_index .con .right > ul li {
+      width: 175px;
+    }
+    .news .news_index .con .left p {
+      display: inline-block;
+      white-space: nowrap;
+      width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+  // 生态页面样式
+  .alpt {
+    .banner .box li {
+      h4 {
+        font-size: 14px;
+        text-align: center;
+      }
+      p {
+        font-size: 10px;
+        text-align: center;
+      }
+    }
+    // .con .alptForm .img_list img{
+    //   width: 90%;
+    // }
+    .con > .run p {
+      line-height: 30px;
+    }
+    .con .run .box li {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      line-height: normal;
+      font-size: 16px;
+    }
+    .con > .alptValue .box2 li h5 {
+      font-size: 24px;
+    }
+    .con > .alptValue ul li .fund_desc .text {
+      font-size: 10px;
+      text-align: center;
+      line-height: normal;
+      padding: 10px 0;
+    }
+    .con{
+      .cn{
+        display: none;
+      }
+      .en{
+        display: block !important;
+      }
+    }
+  }
+  .pay {
+    .con .alphaPay .alphaPay_text p {
+      line-height: 30px;
+    }
+    .con .product ul li .text {
+      font-size: 12px;
+    }
+    .con .product_bg .product_2 .box li {
+      width: 250px;
+      box-sizing: border-box;
+      h5 {
+        font-size: 16px;
+        text-align: center;
+      }
+    }
+  }
+  .wallet {
+    .banner .title .ch{
+      display: none;
+    }
+    .desc_two .box li {
+      h5 {
+        font-size: 19px;
+        padding: 10px 0;
+        text-align: center;
+      }
+      p {
+        font-size: 12px;
+      }
+    }
+  }
+  .news_zhu{
+    .news_index .con .right .right_con ul li .right_con_title{
+      display: inline-block;
+      white-space: nowrap; 
+      width: 100%; 
+      overflow: hidden;
+      text-overflow:ellipsis;
+    }
+  }
+  .al-footer-wrap .index .list{
+    width: 850px;
+  }
+}

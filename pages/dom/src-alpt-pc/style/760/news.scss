@@ -1,0 +1,83 @@
+@import '@/style/mixin.scss';
+.news_zhu {
+  width: 100%;
+  margin-bottom: 1rem;
+  background: #0E0E32;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  .banner {
+    width: 100%;
+    height: 3.2rem;
+    background: url("/banner/news_ban.png");
+    background-size: 100% 100%;
+    h3 {
+      font-size: 0.5rem;
+      padding-bottom: 0.4rem;
+    }
+    p {
+      color: #56DAFF;
+      font-size: 0.3rem;
+    }
+  }
+  .w{
+    display: none;
+  }
+  .h5_right {
+    display: block ;
+    height: 100%;
+    width: 90%;
+    margin-top: 0.5rem;
+    border-radius: 0.05rem;
+    overflow: hidden;
+    position: relative;
+
+    > ul {
+      border-bottom: 1px solid #272743;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      li {
+        cursor: pointer;
+        font-size: 0.3rem;
+        width: 2rem;
+        height: 0.64rem;
+        line-height: 0.64rem;
+        text-align: center;
+        color: #14587A;
+      }
+    }
+    .right_con {
+      ul {
+        padding: 0.1rem 0.2rem;
+        box-sizing: border-box;
+        li {
+          cursor: pointer;
+          box-sizing: border-box;
+          padding: 0.1rem 0;
+          border-bottom: 1px solid #272743;
+          .right_con_title {
+            font-size: 0.28rem;
+            font-weight: 600;
+            color: #56b4d0;
+            display: inline-block;
+            white-space: nowrap;
+            width: 100%;
+            overflow: hidden;
+            text-overflow:ellipsis;
+          }
+          .text {
+            font-size: 0.22rem;
+            color: #2e5d7b;
+            display: inline-block;
+            white-space: nowrap;
+            width: 100%;
+            overflow: hidden;
+            text-overflow:ellipsis;
+          }
+        }
+      }
+    }
+  }
+}

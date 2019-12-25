@@ -1,0 +1,98 @@
+@import '@/style/mixin.scss';
+.en {
+  // 首页
+  .al-home-wrap{
+    .run-circle .circle-wrap .single-circel .title{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 1.8rem;
+     font-size: 0.23rem;
+     padding-bottom: 1rem;
+   }
+   .serve .index .img{
+     background: url('/img/en_home_serve1.png') no-repeat;
+     background-size: 100% ;
+   }
+   .news .news_index .con .right > ul li{
+     width: 2.2rem;
+   }
+   .develop-wrap .time-line > ul > li > ul .event-pointer > div span{
+      width: 5.3rem;
+      font-size: 0.2rem;
+   }
+  }
+  .news_zhu .h5_right > ul li{
+    width: 2.2rem;
+  }
+  // 钱包
+  .wallet{
+    .banner .title .but{
+      font-size: 0.25rem;
+      text-align: center;
+      padding: 0.13rem 0;
+    }
+    .banner .title .ch{
+      display: none;
+    }
+    .desc_bg .desc ul li h5{
+      font-size: 0.2rem;
+    }
+    .desc_bg .desc ul li:nth-child(4){
+      padding: 0;
+    }
+    .desc_two ul li {
+      h5 {
+        font-size: 0.25rem;
+      }
+      p{
+        font-size: 0.2rem;
+      }
+    }
+    
+  }
+  // 支付
+  .pay{
+    .con .alphaPay .alphaPay_text p{
+      line-height: 0.35rem;
+    }
+  }
+  .alpt{
+    .banner .text p{
+      line-height: 0.4rem;
+    }
+    .banner ul li {
+      h4{
+        line-height: normal;
+        font-size: 0.21rem;
+      }
+      p{
+        display: none;
+      }
+    }
+    .con .run ul li{
+      line-height: normal;
+      font-size: 0.18rem;
+    }
+    .con .alptValue .text{
+      margin: 0;
+    }
+    .con .alptValue ul li .fund_desc p {
+      font-size: 0.2rem;
+      line-height: normal;
+      padding: 0 0.2rem;
+    }
+    
+  }
+  .al-footer-wrap{
+    .index .list tr td{
+      font-size: 0.16rem;
+      text-align: center;
+    }
+    .index .list tr .left{
+      text-align: left;
+    }
+  }
+
+
+}

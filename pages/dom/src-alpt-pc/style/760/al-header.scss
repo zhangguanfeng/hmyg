@@ -1,0 +1,96 @@
+@import '@/style/mixin.scss';
+.al-header-wrap {
+    .pc{
+        display: none;
+    }
+    .shade{
+        position: fixed;
+        background: #000;
+        opacity: 0;
+        top: 1.5rem;
+        width: 100vw;
+        z-index: 2;
+        height: calc(100% - 1.5rem);
+    }
+    .space {
+        display: block;
+        width: 100%;
+        height: 1.5rem;
+    }
+    .mobile {
+        @include flex();
+        height: 1.5rem;
+        width: 100%;
+        position: fixed;
+        left: 0;
+        top: 0;
+        background: #18183D;
+        z-index: 99;
+        .logo {
+            height: .54rem;
+            width: unset;
+            margin-left: .3rem;
+        }
+        >.tab {
+            @include flex(column, flex-end, flex-end);
+            width: calc(100% - 3rem);
+            margin-right: .3rem;
+            li {
+                width: .48rem;
+                height: .07rem;
+                background: #33A0C1;
+                margin: .06rem 0;
+            }
+        }
+        .menu-list {
+            position: fixed;
+            right: 0;
+            top: 1.5rem;
+            width: 3.1rem;
+            z-index: 3;
+            height: calc(100% - 1.5rem);
+            background: url('/img/H5_bg.png');
+            background-size: 100%;
+            @include flex(column, flex-start);
+            .h5Active{
+                background: #18183D;
+            }
+            .dow{
+                display: flex;
+                align-items: flex-end;
+                flex-direction: column;
+                h5{
+                    padding-top: 0.3rem ;
+                    font-size: 0.24rem;
+                }
+            }
+            >li {
+                &:nth-child(1){
+                    margin-top: 0.2rem;
+                }
+                i{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    width: 0.8rem;
+                    height: 0.8rem;
+                }
+                box-sizing: border-box;
+                width: 100%;
+                // border-bottom: 1px solid #e9e9e9;
+                font-size: .32rem;
+                text-indent: .8em;
+                padding: .2rem 0;
+                padding-right: .55rem;
+                color: #33A0C1;
+                @include flex(row, flex-end);
+                text-align: right;
+
+            }
+            li:last-child {
+                border-bottom: none;
+            }
+        }
+    }
+}
+

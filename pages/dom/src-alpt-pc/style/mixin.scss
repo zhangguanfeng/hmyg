@@ -1,0 +1,42 @@
+
+// 字体颜色,大小, 水平布局
+@mixin font($size, $color: #333, $text-align: left){
+	font-size: $size;
+	color: $color;
+	text-align: $text-align;
+}
+
+// flex布局
+@mixin flex($direction: row,$justify-content: center, $align-items: center) {
+	display: flex;
+	flex-direction: $direction;
+	justify-content: $justify-content;
+	align-items: $align-items;
+}
+
+@mixin wh($width: 100%, $height: 100%) {
+	width: $width;
+	height:  $height;
+}
+@mixin title($font: 32px, $color: #4FC7EB ,$center:center) {
+	font-size: $font;
+	color:  $color;
+	text-align:  $center;
+}
+@mixin transition($duration: 0.3s, $target: all) {
+	transition: $duration $target cubic-bezier(0.24, 0.75, 0.59, 1.01);
+	-webkit-transition: $duration $target cubic-bezier(0.24, 0.75, 0.59, 1.01);
+	-moz-transition: $duration $target cubic-bezier(0.24, 0.75, 0.59, 1.01);
+	-ms-transition: $duration $target cubic-bezier(0.24, 0.75, 0.59, 1.01);
+	-o-transition: $duration $target cubic-bezier(0.24, 0.75, 0.59, 1.01);
+}
+
+@mixin slide-up($length: 30px) {
+	.slide-up-enter-active, .slide-up-leave-active {
+		@include transition();
+	}
+	.slide-up-enter, .slide-up-leave-to {
+		transform: translateY($length);
+		opacity: 0;
+	}
+}

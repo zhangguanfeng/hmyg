@@ -1,0 +1,10 @@
+@media screen and(max-width: 760px) {
+  #app{
+    .contain > div {
+      max-width: 100% !important;
+    }
+    @import './760/max-760.scss';
+    @import './760/en.scss';
+  }
+
+}

@@ -1,0 +1,77 @@
+#app {
+    .el-button {
+        &:active,
+        &:hover,
+        &:focus {
+            color: #fff;
+            border-color: $color;
+            background-color: $color;
+        }
+    }
+
+    .el-button.el-button--text {
+        &:active,
+        &:hover,
+        &:focus {
+            color: #e69226;
+            border-color: transparent;
+            background-color: transparent;
+        }
+    }
+
+    .el-button.is-plain {
+        background-color: #fff;
+
+        &:active,
+        &:hover,
+        &:focus {
+            color: #fff;
+            border-color: $color;
+            background-color: $color;
+        }
+    }
+
+    .el-button.is-plain.activite {
+        color: #fff;
+        border-color: $color;
+        background-color: $color;
+    }
+
+    .el-button--primary.is-disabled {
+        &:active,
+        &:hover,
+        &:focus {
+            color: #fff;
+            border-color: #9bbdff;
+            background-color: #9bbdff;
+        }
+    }
+}
+
+:root .theme-dark {
+    .el-select-dropdown {
+        background: $color-dark-bg;
+        border-color: #434F6A;
+
+        .el-select-dropdown__item {
+            color: #576590;
+
+            &.selected {
+                color: #B4C5F7;
+            }
+
+            &:hover, &.hover {
+                background: #434F6A;
+                color: #B4C5F7;
+            }
+        }
+
+        .popper__arrow {
+            border-top-color: #434F6A;
+
+            &:after {
+                border-top-color: $color-dark-bg;
+            }
+        }
+    }
+}

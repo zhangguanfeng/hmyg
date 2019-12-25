@@ -1,0 +1,60 @@
+body, ul, li ,p{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+ h1, h2, h3, h4, h5{
+   padding:0;
+   margin: 0;
+   font-weight: 400;
+ }
+ img{
+   width: 100%;
+ }
+html, body {
+  width: 100%;
+  height: 100%;
+}
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #1C677D;
+  font-size: 18px;
+  width: 100%;
+  height: 100%;
+  background: #0E0E32;
+  .contain {
+    position: absolute;
+    width: 100%;
+    height: calc(100% - 70px);
+    left: 0;
+    top: 70px;
+    @media screen and(min-width: 760px) {
+      >div {
+        min-width: 1200px;;
+      }
+    }
+  }
+}
+ .background{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: #0E0E32;
+    z-index: -1;
+ }
+.router-fade-in-enter-active {
+  transition: all .1s ease-in;
+  opacity: 0;
+}
+.router-fade-in-leave-active {
+  transition: all .1s ease-in;
+  opacity: 0;
+}
+.router-fade-in-enter, .router-fade-in-leave-to {
+  transform: translateY(10px);
+  opacity: 0;
+}

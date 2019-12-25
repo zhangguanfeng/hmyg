@@ -1,0 +1,206 @@
+@import './element.scss';
+@font-face{
+  font-family: 'Hiragino';
+  src : url('/fonts/Hiragino Sans GB W3.otf');
+}
+@font-face{
+  font-family: 'SourceHan';
+  src : url('/fonts/SourceHanSansCN-Medium.ttf');
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+* {
+  font-family: SourceHan;
+}
+#app {
+  font-family:'Microsoft Yahei', 'Avenir','PingFangSC', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  width: 100%;
+  height: 100%;
+  font-weight: 500;
+  // overflow: auto;
+  position: absolute;
+
+}
+
+//.v-modal {
+//  z-index: 1 !important;
+//}
+
+#app .el-pagination {
+  margin: 20px 0 20px 0;
+  text-align: right;
+  color: #666;
+
+  @include media(xs){
+    margin: 10px 0;
+    padding: 0!important;
+  }
+}
+
+.el-loading-spinner {
+  top: 10% !important;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul, ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+//vue-lazyload
+[lazy]{
+  transition:opacity 0.3s ease-out;
+}
+
+[lazy="loading"]{
+  opacity: 0;
+}
+
+[lazy="loaded"]{
+  opacity: 1;
+}
+
+.c-red {
+  color: $color-up !important;
+}
+
+.c-green {
+  color: $color-down !important;
+}
+
+//c-table
+.c-table {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  &__header {
+    width: 100%;
+    padding: 2px 10px 0px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+
+    &__title {
+      flex: 1;
+      color: #919191;
+      display: flex;
+      font-size: 12px;
+      transform: scale(0.9);
+      transform-origin: center;
+      align-items: center;
+      justify-content: center;
+
+      :root .theme-dark & {
+        color: #7B89AC;
+      }
+
+      &:first-child {
+        justify-content: left;
+        transform-origin: left;
+      }
+
+      &:last-child {
+        justify-content: flex-end;
+        transform-origin: right;
+      }
+    }
+  }
+
+  &__body {
+    padding: 5px 0;
+    flex: 1;
+    width: 100%;
+    overflow: hidden;
+
+    ul {
+      width: 100%;
+      padding: 0 8px;
+      box-sizing: border-box;
+
+      li {
+        display: flex;
+        align-items: center;
+        font-size: 12px;
+        height: 20px;
+        line-height: 20px;
+        margin-top:2px;
+
+        span {
+          z-index: 1;
+          flex: 1;
+          display: flex;
+          color: $color-text;
+          // transform: scale(0.9);
+          // transform-origin: center;
+          align-items: center;
+          justify-content: center;
+
+          :root .theme-dark & {
+            color: #C4CAD7;
+          }
+
+          &:first-child {
+            // transform-origin: left;
+            justify-content: flex-start;
+          }
+
+          &:last-child {
+            // transform-origin: right;
+            justify-content: flex-end;
+          }
+        }
+      }
+    }
+  }
+}
+
+.c-mask{
+  z-index: 90;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
+.el-message-box{
+  width:80%!important;
+  max-width: 420px;
+}
+
+
+.xs-show{
+  display: none;
+
+  @include media(xs){
+    display:block!important;
+  }
+}
+
+.xs-hide{
+  @include media(xs){
+    display:none!important;
+  }
+}
+
+//全局改写element
+.app .el-radio-button__inner{
+  background: transparent;
+}

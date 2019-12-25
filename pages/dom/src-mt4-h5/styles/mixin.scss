@@ -1,0 +1,28 @@
+@mixin flex($direction: row, $align: center, $justify: center) {
+  display: flex;
+  flex-direction: $direction;
+  justify-content: $justify;
+  align-items: $align;
+}
+
+@mixin wh($width: 100%, $height: 100%) {
+  width: $width;
+  height: $height;
+}
+
+@mixin transition($tag: all, $duration: 300ms, $cub: cubic-bezier(0.24, 0.8, 0.46, 0.89)) {
+  transition: $tag $duration $cub;
+}
+
+@mixin slide-fade($transform: translateY(100px)) {
+  .slide-fade-enter-active {
+    @include transition();
+  }
+  .slide-fade-leave-active {
+    @include transition();
+  }
+  .slide-fade-enter, .slide-fade-leave-to{
+    transform: translateY(100px);
+    opacity: 0;
+  }
+}

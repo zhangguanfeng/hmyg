@@ -1,0 +1,1305 @@
+{
+    "menu": [
+        "Home",
+        "Project",
+        "Invitation",
+        "News",
+        "Download",
+        "User center",
+        "About"
+    ],
+    "login": "Login",
+    "register": "Register",
+    "confirm": "Confirm",
+    "recommend": [
+        "Cumulative increase：",
+        "24H amount ",
+        "Instant trading",
+        "Please enter",
+        "Buy now",
+        "The minimum order amount is"
+    ],
+    "buySPO": {
+        "title": [
+            "Off-site recharge",
+            "Quantity：",
+            "unit price：",
+            "select your payment mode",
+            "Bank card",
+            "Alipay",
+            "Please be sure to note the payment information so that the recipient can confirm the payment.",
+            "Payment reference number：",
+            "I have paid",
+            "Name：",
+            "Copy"
+        ],
+        "bank": [
+            "Bank Account：",
+            "Bank name："
+        ],
+        "alipay": [
+            "Account："
+        ],
+        "tips": [
+            "Transaction reminder：",
+            "1. After paying offline, please be sure to click \"I have paid\". After the seller confirms the payment, the system will transfer the digital assets to your account.",
+            "2. Your remittance will go directly to the seller's account. During the transaction, the digital assets sold by the seller will be protected by the platform.",
+            "3. Please contact WeChat customer service for quick release after payment."
+        ],
+        "boughted": [
+            "Paid, waiting for the seller to verify release",
+            "Contact WeChat customer service to release quickly ：",
+            "order details",
+            "Buyer UID：",
+            "Transaction Type：",
+            "The transaction amount：",
+            "Transaction unit price：",
+            "Number of transactions：",
+            "Payment reference number：",
+            "order number：",
+            "Creation time："
+        ]
+    },
+    "introduce_icon": [
+        "Speed trading",
+        "Asset security",
+        "Professional technology"
+    ],
+    "introduce_text": [
+        "SME financing service platform",
+        "We want good assets， right now.  the assets provided by the Instant Exchange to the user are based on high-quality physical assets such as real estate and mining, and also cover the equity of high-quality companies, covering projects such as smart hardware and e-commerce of startups started by Tencent or Huawei.",
+        ""
+    ],
+    "more": "More",
+    "homeTitle": [
+        "Investment project",
+        "Looking for funds",
+        "Instant mall",
+        "Download app",
+        "News Center"
+    ],
+    "money": [
+        "Equity financing",
+        "Introduce financial support to help enterprises grow rapidly",
+        "Asset financing",
+        "Quickly realise assets and get financial support",
+        "Knowledge financing",
+        "Realization of virtual assets such as intellectual property rights"
+    ],
+    "download": [
+        "Instant exchange",
+        "English version, is on the way, you can use web to trade now",
+        "APP",
+        "Android"
+    ],
+    "account": [
+        "your phone number or email.",
+        "Please enter the correct mobile number or email address.",
+        "8-24 digit alphabetic and numeric.",
+        "Please enter a 8-24 digit password.",
+        "Login password must be a combination of letters and numbers.",
+        "graphic verification code. ",
+        "Please enter the correct graphic verification code.",
+        "Please enter a Google verification code.",
+        "Please enter the correct Google verification code."
+    ],
+    "loginIfo": [
+        "Remember account",
+        "Forget password？",
+        "Google verification"
+    ],
+    "regIfo": [
+        "verification code.",
+        "Please enter the correct phone or email verification code.",
+        "Please input invitation code (optional).",
+        "get verification code",
+        "retrieve",
+        "Google verification code can't be empty",
+        "Must be 6 digits pure number",
+        "I have read and agreed",
+        "User Agreement",
+        "Please tick the user agreement"
+    ],
+    "forgotPwd": [
+        "Forgot your password",
+        "8-24 digit alphabetic and numeric.",
+        "Determine"
+    ],
+    "footerHome": {
+        "partners": [
+            "Partner",
+            "Manto Capital Management",
+            "Conton Capital Management",
+            "Alternative capital management",
+            "Ryan Capital Management",
+            "Alton Capital Management",
+            "Aston Capital Management",
+            "Dari Capital Management",
+            "Rose investment"
+        ],
+        "about": [
+            " About us",
+            "Company Profile",
+            "Coin application",
+            "Project delivery"
+        ],
+        "serviceSupport": [
+            "Service support",
+            "API documentation",
+            "Platform rate",
+            "Terms of Service",
+            "Privacy protection"
+        ],
+        "illustrate": [
+            "Help description",
+            " Account access",
+            "Coin charging &Withdraw money",
+            "Coin transaction",
+            "Coin introduction"
+        ],
+        "contact": [
+            "Contact us",
+            "WeChat：",
+            "Email：",
+            "",
+            "QQ：",
+            "Telegram："
+        ]
+    },
+    "projectList": [
+        "project's venue:",
+        "Project valuation:",
+        "See details",
+        "Invest",
+        "Project release",
+        "Quotes",
+        "Project list"
+    ],
+    "projectMarket": [
+        "SPO",
+        "Optional",
+        "Transaction pair",
+        "Latest price",
+        "Quote change",
+        "24H highest price",
+        "24H lowest price",
+        "24H volume",
+        "Asset area",
+        "Lotto",
+        "Please enter a currency name",
+        "IEO area",
+        "LUD area"
+    ],
+    "mainObject": {
+        "title": "Asset area",
+        "content": "The asset area is the product trading area of the immediate Jinfu Assets Project. All assets in the area are on the blockchain and cannot be arbitrarily altered. The district will actively introduce entrepreneurial team projects such as Ali, Huawei and Tencent, as well as equity investment products such as high-quality equity and real estate. On the one hand, it provides investment and financing channels for users who focus on physical assets, and another On the basis of demand matching and information symmetrical services, the company satisfies the diversified needs of users, so that the investment users in the region can obtain both market value-added income and project participants' agreed rights and dividends."
+    },
+    "innovationObject": {
+        "title": "Lotto",
+        "content": "The lotto mainly provides online digital currency asset trading services for users. The region contains both mainstream digital currency and potential innovation project tokens. Users can choose their preferred currency to analyze and trade in the immediate lottery zone according to their own risk preferences, and generate value through market fluctuations. Due to the large fluctuations in the market in this area, user investment needs to be cautious."
+    },
+    "ieoObject": {
+        "title": "IEO area",
+        "content": "The IEO Zone of Instant Exchange is a platform for project parties and prospective investors who have an asset pre-sale plan before the IPO. Through this platform, users can purchase good quality project tokens and get value returns.<br/>During the project IEO, the quantity and amount are limited, and the user can only purchase at a fixed price within the specified time. The tokens will be locked before the project is publicly listed, and can be traded freely after listing."
+    },
+    "projectDetails": [
+        "Project code:",
+        "Purchase earns",
+        "Buying",
+        "Product:",
+        "Buy:",
+        "rights and interests:",
+        "Product introduction:",
+        "Latest price:",
+        "project location:",
+        "Project valuation:",
+        "Project release",
+        "Investment estimate",
+        "Project details",
+        "Project atlas",
+        "Query link",
+        "Financial atlas",
+        "company team",
+        "Founder",
+        "Good at:",
+        "Good at:",
+        "Proof of interest",
+        "Official website inquiry",
+        "Third party query",
+        "Entity atlas",
+        "Income statement",
+        "Sales revenue",
+        "operating profit",
+        "Profit after tax",
+        "Net profit attributable to the ordinary shareholders of the parent company",
+        "Basic earnings per share",
+        "Dividend per share",
+        "Balance sheet",
+        "Current assets",
+        "Current liabilities",
+        "Total assets",
+        "total liability",
+        "Total equity",
+        "Cash flow statement",
+        "Cash flow from operating activities",
+        "Investment activity cash flow",
+        "Cash flow from financing activities"
+    ],
+    "_projectDetails":{
+        "tabs":[
+          "Project profile",
+          "Finance",
+          "Team",
+          "Announcement",
+          "Authenticate"
+        ]
+    },
+    "newsMenu": [
+        "News center",
+        "Platform announcement"
+    ],
+    "newsDetail": [
+        "Release time:",
+        "Immediate gold service",
+        "Previous:",
+        "Next:"
+    ],
+    "introduction": {
+        "content": [
+            "Instant Exchange is a specialized SME financing service platform built by a group of senior participants in the field of digital assets. Committed to solving enterprise scenario applications and project circulation issues (such as using blockchain to solve asset securitization processes). The platform was originally designed to be digital Asset enthusiasts provide an investment and financing service platform that can purchase property, mine, and high-quality company equity projects. At the same time, with the digital capital The influence of production has gradually expanded, digital assets have been accepted by more and more users, and the platform has begun to aggregate global high-quality blockchain assets. The boundary asset service platform provides users with safer and more convenient blockchain asset exchange services.",
+            "Through the securitization of the securities, it corresponds to some kind of gold in reality. Financing or equity, such as company equity, claims, gold, housing Real estate investment trust, dividend right of blockchain system, etc. The way of producing the chain provides the rights and interests of both the investment and the financing.",
+            "Immediately, gold clothes are brought together from Microsoft, Huawei, Tencent, Ali, Baidu and other industry giants, a professional team with a total of more than 200 people. More than 80% of the technical team has multiple shipments around the world. Camp promotion center.",
+            "Instantex is committed to making smooth, comfortable and user-friendly transactions Products and processes that help users efficiently add value to their assets. Have Resilience, ability, and ultimately grow up as a model, I They will make themselves change, update, cater to, and improve their behavior. Colleagues insist on the soul of their business.",
+            "Platform circulation token SPO and gold mine binding, relatively stable, gold The mine works well every year and produces gold in a stable manner (the total valuation exceeds 200) 100 million yuan), users can directly redeem online and offline channels Gold, 1SPO can be exchanged for the equivalent of 1 yuan gold. SPO as immediate gold Serve the official circulation token, which can be used for product purchase in this application scenario. And all paid services, as well as access to the mall's value-added services. Set the token."
+        ],
+        "title": [
+            "Company Profile",
+            "Asset digital advantage",
+            "Professional operation team",
+            "Efficient",
+            "Endorsement of unique assets and proof"
+        ],
+        "advantage": [
+            "Better liquidity",
+            "Better regulation",
+            "Faster financing",
+            "Smaller trading unit"
+        ],
+        "menu": [
+            "Company Profile",
+            "Coin application",
+            "Delivery project",
+            "Platform rate"
+        ]
+    },
+    "currencyApplication": [
+        "Coin application",
+        "Please enter a currency name",
+        "Please enter a contact",
+        "Please enter your contact information",
+        "submit application",
+        "Please fill in the information below and the team will respond to you within 5 business days of receiving the application.",
+        "You have submitted your application and the team will respond to you within 5 working days of receiving the application. Please be patient and successful."
+    ],
+    "deliverProject": [
+        "Delivery project",
+        "Please fill in the information below and the team will respond to you within 5 business days of receiving the application.",
+        "Please enter a currency name",
+        "Please enter a contact",
+        "Please briefly introduce the project situation, project advantages and financing purposes, between 20-500 words.",
+        "Click to download template example",
+        "Receive project mailbox:",
+        "submit application",
+        "Please enter your contact information"
+    ],
+    "platformRate": {
+        "describe": [
+            "Platform fee",
+            "Recharge rate：free",
+            "Withdrawal rate：The withdrawal fee will be adjusted periodically according to the actual situation of the block."
+        ],
+        "table": [
+            "Currency",
+            "Coin handling fee",
+            "Single minimum coin",
+            "The largest single billing day"
+        ]
+    },
+    "successful": [
+        "Successful operation"
+    ],
+    "helpCenter": {
+        "title": "Common problem",
+        "info": "Can't find the answer？Please contact us to add customer service WeChat detailed consultation："
+    },
+    "withoutData": [
+        "Data loading failed，Refresh retry",
+        "No data"
+    ],
+    "loginPersonalIfo": [
+        "UID：",
+        "Asset detail",
+        "Transaction Record",
+        "Sign out"
+    ],
+    "userCenterMenu": [
+        "Asset detail",
+        "My reward",
+        " Transaction Record",
+        "Financial record",
+        "Verified",
+        "Google verification",
+        "Account binding",
+        "Change password"
+    ],
+    "userCenter": [
+        "Trading account assets",
+        "Invitation link:",
+        "Invitation code:"
+    ],
+    "assetsReport": [
+        "Coin",
+        "Amount",
+        "Available",
+        "Frozen",
+        "Operation",
+        "Coin charging",
+        "Withdraw coin",
+        "Trade"
+    ],
+    "reward": [
+        "Coin",
+        "Type",
+        "Amount",
+        "Time",
+        "Status",
+        "Complete"
+    ],
+    "transactionRecords": {
+        "title": [
+            "Current commissioned",
+            "Current commissioned",
+            "Deal record",
+            "Query",
+            "All"
+        ],
+        "entrust": [
+            "Transaction",
+            "Type",
+            "Price",
+            "Amount",
+            "Total",
+            "Deal done",
+            "Status",
+            "Time",
+            "Operation",
+            "Buy",
+            "Sell",
+            "Withdrawal",
+            "Commissioned"
+        ],
+        "record": [
+            "Transaction",
+            "Type",
+            "Price",
+            "Amount",
+            "Deal done",
+            "Average price",
+            "State",
+            "Time",
+            "Operation",
+            "Buy",
+            "Sell",
+            "Check",
+            "Completed",
+            "Withdrawn",
+            "Commissioned"
+        ],
+        "recordDetails": [
+            "Transaction time",
+            "Transaction unit price",
+            "Volume(SPO)",
+            "Total turnover (SPO)"
+        ],
+        "transaction": [
+            "Transaction",
+            "Type",
+            "Commission price",
+            "Volume",
+            "Transaction time",
+            "Lump sum"
+        ],
+        "tips": [
+            "Success",
+            "Successful withdrawal"
+        ]
+    },
+    "financialDetails": {
+        "title": [
+            "Coin charging",
+            "Withdraw coin"
+        ],
+        "table": [
+            "Coin type",
+            "Quantity",
+            "Address",
+            "Time",
+            "State"
+        ]
+    },
+    "authentication": {
+        "title": [
+            "Real name authentication:",
+            "Name:",
+            "Country and location:",
+            "Passport number:"
+        ],
+        "tips": [
+            "Tips :",
+            "1. All images are forbidden to contain other watermarks (except for watermarks for authentication classes only).",
+            "2, portrait photo, please completely reveal the upper body, and hold a frontal photo of the national identity card and personal signature paper or hand-held passport personal information page and personal signature paper.",
+            "3. The contents of the personal signature paper contain today's date.",
+            "4, do not shoot too far, otherwise you will not be able to pass the review.",
+            "Tip : Please do not exceed 5MB for a single image. Please wait patiently for uploading after submitting. Do not click repeatedly."
+        ],
+        "imgTips": [
+            "1. Upload the front of the national ID card or the passport cover.",
+            "2. Upload the reverse side of the national ID card or personal information of the passport.",
+            "3. Upload the hand-held national ID card and personal signature paper or hand-held passport personal information page and personal signature paper"
+        ],
+        "validate": [
+            "Please type in your name",
+            "Please enter your national ID or passport ID",
+            "Name can only be Chinese",
+            "ID card input is illegal"
+        ],
+        "button": [
+            "Next step",
+            "Real name",
+            "Submit",
+            "Submitting"
+        ]
+    },
+    "google": {
+        "title": [
+            "Google verification",
+            "Google Authenticator",
+            "Turn on Google verification when you log in",
+            "Unbind Google Authenticator"
+        ],
+        "binding": [
+            "Key:",
+            "Copy key",
+            "Key replication succeeded",
+            "Google verification code:",
+            "Binding",
+            "Binding success",
+            "Untied"
+        ],
+        "tips": [
+            "(Open Google Authenticator, scan the QR code above or manually enter the above key to add a verification token)",
+            "Please enter a Google verification code",
+            "Please enter the registered account SMS/email verification code"
+        ],
+        "introduce": [
+            "Google Authenticator is a dynamic password tool that works like SMS dynamic verification. Generate a dynamic verification code every 30S after binding. The verification code can be used for login, withdrawal, and Modify security verification for operations such as security settings.",
+            "Download Google Verified App",
+            "IOS users log in to the APP Store to search for \"Authenticator\" downloads.",
+            "Android users log in to the app store or use the mobile browser to search for \"Google Authenticator\" download "
+        ]
+    },
+    "accountBinding": {
+        "title": "Account binding",
+        "content": [
+            "Bind mailbox",
+            "Secure verification when withdrawing coins, retrieving passwords, modifying security settings, and managing APIs",
+            "Bind phone number",
+            "Binding",
+            "Modify"
+        ],
+        "details": {
+            "common": [
+                "Cellphone number",
+                "Mobile phone verification code",
+                "Email address",
+                "E-mail verification code",
+                "Verification code",
+                "new",
+                "Please enter",
+                "send",
+                "original"
+            ],
+            "binding": "Binding",
+            "modify": "Modify"
+        },
+        "placeholder": [
+            "Phone number must be a number",
+            "Please enter the correct email account"
+        ]
+    },
+    "password": {
+        "title": [
+            "Modify the login password",
+            "Set transaction password",
+            "Submit"
+        ],
+        "Modify": [
+            "Original login password:",
+            "Please enter the original login password",
+            "New login password:",
+            "Confirm login password:",
+            "Please enter and enter the new login password again.",
+            "Inconsistent input password twice",
+            "Old and new passwords cannot be consistent!"
+        ],
+        "trade": [
+            "For the security of your funds, you are not allowed to withdraw coins within 24 hours after modifying the transaction password.",
+            "New transaction password:",
+            "Please enter a 6-digit pure digital transaction password",
+            "Confirm transaction password:",
+            "Please enter the transaction password again.",
+            "Inconsistent input password twice"
+        ],
+        "tips": [
+            "Please send a verification code first.！",
+            "Set the transaction password successfully"
+        ]
+    },
+    "verificationCode": {
+        "lable": "Verification code:",
+        "value": [
+            "Mobile phone reception",
+            "Mailbox reception",
+            "Reacquire"
+        ],
+        "placeholder": [
+            "your phone verification code",
+            "the email verification code",
+            "verification code"
+        ]
+    },
+    "chargeMoney": {
+        "title": [
+            "Coin charging",
+            "Withdraw coin",
+            "Tips"
+        ],
+        "content": [
+            "Total amount:",
+            "Available:",
+            "freeze:",
+            "Currency address:"
+        ],
+        "tipsFilling": [
+            "Do not recharge any non-",
+            "assets to the above address or the assets will not be retrievable.",
+            "After you recharge to the above address, you need the confirmation of the entire network node. After 1 network confirmation, the account will be received. After 6 times of network confirmation, the coin can be raised.",
+            "Minimum recharge amount: 0.0000, the recharge value less than the minimum amount will not be credited and cannot be returned.",
+            "Be sure to check the security of your computer and browser to prevent it from being tampered with or leaked."
+        ],
+        "tipsMention": [
+            "Minimum number of coins:",
+            "Please do not mention ICO's crowdfunding address directly, which will result in you being unable to collect crowdfunded digital assets.",
+            "The network transfer fee is not fixed, depending on the computing power consumed by the contract execution at the time of transfer.",
+            "Be sure to check the security of your computer and browser to prevent it from being tampered with and leaked."
+        ],
+        "mention": [
+            "Coin address:",
+            "Add coin address",
+            "Number of coins:",
+            "All proposed",
+            "Minimum number of coins:",
+            "Handling fee:",
+            "Actual arrival:",
+            "transaction password:"
+        ],
+        "placeholder": [
+            "Please select the coin address",
+            "Please enter the number of coins",
+            "The number of coins must be a number",
+            "The amount of coins can not be less than"
+        ],
+        "add": [
+            "Add coin address",
+            "Remark Name:",
+            "Add address:",
+            "Add to",
+            "Please enter a note name",
+            "Please enter the coin address"
+        ]
+    },
+    "tradeTop": {
+        "coin_introduce": "Currency introduction",
+        "last_price": "Last Price",
+        "change": "24H Change",
+        "24H_High": "24H High",
+        "24H_Low": "24H Low",
+        "Dark_mode": "Dark mode",
+        "24H_Vol": "24H Vol",
+        "Introduction": "Introduction",
+        "rows": [
+            "Publish time:",
+            "Total amount:",
+            "Total circulation:",
+            "Crowdfunding price:",
+            "White paper:",
+            "Block query:"
+        ],
+        "Introduction2": "Introduction:",
+        "hint": "Tips:",
+        "hintContent": "Digital assets are innovative investment products that are not legally and compulsory, have large price fluctuations, and have high investment risks. Before investing, you are expected to fully understand digital assets, rationally judge investment ability, and make investment decisions prudently. We will continue to provide you with better products and better service!",
+        "more": "More"
+    },
+    "tradeBottom": {
+        "title1": "Present entrust",
+        "buy": "Buy",
+        "sell": "Sell",
+        "commissioned": "Commissioned",
+        "title2": "Entrusted record",
+        "title3": "Transaction record",
+        "Withdrawal": "Withdrawal",
+        "nodata": "No Data",
+        "nomore": "No more",
+        "loadmore": "Load more",
+        "view": "View",
+        "orderStatusMap": [
+            "Cmpleted",
+            "Withdrawn",
+            "Commissioned"
+        ],
+        "historyDetailheaderList": [
+            "Time",
+            "Unit price",
+            "Volume",
+            "Total"
+        ],
+        "currentHeaderList": [
+            "Time",
+            "Market",
+            "Direction",
+            "Price",
+            "Quantity",
+            "Amount",
+            "Transaction amount",
+            "Status",
+            "Action"
+        ],
+        "historyHeaderList": [
+            "Time",
+            "Market",
+            "Direction",
+            "Price",
+            "Quantity",
+            "Traded",
+            "Average price",
+            "Status",
+            "Action"
+        ],
+        "dealHeaderList": [
+            "Time",
+            "Market",
+            "Direction",
+            "Price",
+            "Quantity",
+            "Amount"
+        ],
+        "Successful_withdrawal": "Successful withdrawal.",
+        "nodetail": "There are no details for this transaction.",
+        "title": "Transaction record",
+        "table": [
+            "Price",
+            "Quantity",
+            "Amount"
+        ],
+        "tab": [
+            "Quotes",
+            "Project details"
+        ]
+    },
+    "tradeCurrency": {
+        "toTrade": "Go to trade"
+    },
+    "tradeKLine": {
+        "top": [
+            "Quote",
+            "Depth"
+        ],
+        "activeButtonList": [
+            "Line",
+            "1min",
+            "5min",
+            "15min",
+            "30min",
+            "1hour",
+            "1day",
+            "1week",
+            "1mon",
+            "Setting",
+            "Index"
+        ]
+    },
+    "tradeDep": {
+        "title": "Transaction record",
+        "table": [
+            "Price",
+            "Quantity",
+            "Amount"
+        ]
+    },
+    "tradeIndex": {
+        "tab": [
+            "Quote",
+            "Project details"
+        ]
+    },
+    "tradeRecord": {
+        "title": "Transaction record",
+        "table": [
+            "Price",
+            "Quantity",
+            "Time"
+        ]
+    },
+    "tradeSymbol": {
+        "Optional": "Optional",
+        "searchPlaceholder": "currency to be queried.",
+        "table": [
+            "Market",
+            "Last price",
+            "Change"
+        ],
+        "LUD_area": "LUD area",
+        "LUD_area_pop": {},
+        "LUD_area_toggle": "Introduction",
+        "IEO_area": "IEO area",
+        "IEO_area_pop": {
+            "title": "What is an IEO area？",
+            "subtitle1": "Introduction:",
+            "content1": "The IEO Zone of Instant Exchange is a platform for project parties and prospective investors who have an asset pre-sale plan before the IPO. Through this platform, users can purchase good quality project tokens and get value returns.<br/>During the project IEO, the quantity and amount are limited, and the user can only purchase at a fixed price within the specified time. The tokens will be locked before the project is publicly listed, and can be traded freely after listing.",
+            "subtitle2": "Tip:",
+            "content2": "Digital currency is risky and investment needs to be cautious."
+        },
+        "IEO_area_toggle": "Introduction",
+        "Asset_area": "Asset area",
+        "Asset_area_pop": {
+            "title": "What is an asset area?",
+            "subtitle1": "Introduction:",
+            "content1": "The asset area is the product trading area of the immediate Jinfu Assets Project. All assets in the area are on the blockchain and cannot be arbitrarily altered. The district will actively introduce entrepreneurial team projects such as Ali, Huawei and Tencent, as well as equity investment products such as high-quality equity and real estate. On the one hand, it provides investment and financing channels for users who focus on physical assets, and another In terms of demand matching and information symmetrical services, the company satisfies the diversified needs of users, so that investment users in the region can obtain both market value-added income and project participants' agreed rights and dividends.",
+            "subtitle2": "Tip:",
+            "content2": "Digital currency is risky and investment needs to be cautious."
+        },
+        "Asset_area_toggle": "Introduction",
+        "Virtual_area": "Lotto",
+        "Virtual_area_wrap": {
+            "title": "What is an lotto?",
+            "subtitle1": "Introduction:",
+            "content1": "The lotto mainly provides online digital currency asset trading services for users. The region contains both mainstream digital currency and potential innovation project tokens. Users can choose their preferred currency to analyze and trade in the immediate lottery zone according to their own risk preferences, and generate value through market fluctuations. Due to the large fluctuations in the market in this area, user investment needs to be cautious.",
+            "subtitle2": "Tip:",
+            "content2": "Digital currency is risky and investment needs to be cautious."
+        },
+        "Virtual_area_toggle": "Introduction",
+        "starWarning": "Please login to add your own choice"
+    },
+    "tradeTransaction": {
+        "Limit_trading": "Limit",
+        "Market_transaction": "Market",
+        "buy": "Buy",
+        "login": "Login",
+        "register": "register",
+        "or": "or",
+        "sell": "Sell",
+        "canUse": "Available:",
+        "buyPrice": "Price",
+        "buyAmount": "Amount",
+        "sellAmount": "Amount",
+        "sellPrice": "Price",
+        "Transaction_amount": "Total",
+        "tradePassword": {
+            "label": "Please enter your transaction password.",
+            "placeholder": "Please enter a 6-digit alphanumeric password.",
+            "lost": "Forget password"
+        },
+        "noopen": "Not open",
+        "invalid_price": "The price entered is incorrect.",
+        "invalid_amount": "The number entered is incorrect."
+    },
+    "newsCenterIndex": {
+        "tab": [
+            "News",
+            "Announcement"
+        ]
+    },
+    "newsCenterInfo": {
+        "hot": "Hot news",
+        "more": "More",
+        "recommend": "Recommend",
+        "Thematic_area": "Thematic area",
+        "blockchain": "Blockchain",
+        "financing": "Investment and Financing"
+    },
+    "common": {
+        "back": "Back",
+        "nodata": "No data",
+        "backHome": "Back home"
+    },
+    "newsCenterList": {
+        "title": [
+            "Hot news",
+            "Thematic area",
+            "Blockchain",
+            "Investment and Financing"
+        ]
+    },
+    "partner": [
+        "Become our partner and get exclusive links",
+        "Invite friends to enjoy high-volume rebates",
+        "Login to view",
+        "Apply",
+        "Applying",
+        "Invitation code:",
+        "Copy",
+        "My invitation link:",
+        "Copy",
+        "My number of invites",
+        "Invitation record",
+        "Registration time",
+        "Invitee account",
+        "Status",
+        "No data",
+        "Real name",
+        "Unreal name",
+        "Successful copy!"
+    ],
+    "header": {
+        "setTradePwd": {
+            "title": "No transaction password has been set for the current account",
+            "btn": [
+                "Not set up temporarily",
+                "Go to set up"
+            ]
+        },
+        "registerSuccess": {
+            "title": "Registration is successful, go download now",
+            "confirm": "Download",
+            "cancel": "Cancel"
+        },
+        "uidCopySuccess": "Successful copy"
+    },
+    "home": {
+        "exchange": "Redeem now"
+    },
+    "downloadWrap": {
+        "title": "Instant exchange",
+        "sub": "English version, is on the way, you can use web to trade now",
+        "btn": "Download"
+    },
+    "_projectList": {
+        "chooseWarning": "Please login to add your own choice",
+        "error": "Error"
+    },
+    "_assetsReport": {
+        "ltError": "The amount of available coins is less than the minimum amount of coins, and you can't raise coins!",
+        "error": "Error",
+        "toBind": "You have not bound Google verification, are you going to bind?",
+        "hint": "Tips",
+        "confirm": "Confirm",
+        "cancel": "Cancel",
+        "getSuccess": "Successful coin!"
+    },
+    "_authentication": {
+        "nationOptions": [
+            "China Mainland"
+        ]
+    },
+    "userIndex": [
+        "Last login time",
+        "Last login IP",
+        "Real name",
+        "Binded phone number",
+        "Unbound mobile number",
+        "Bind mailbox",
+        "Unbound mailbox",
+        "Bound google verification",
+        "Unbound google verification",
+        "copy",
+        "UID copied successfully",
+        "Invitation link copied successfully",
+        "Invitation code copied successfully",
+        "Unreal name"
+    ],
+    "privacy":{
+        "content":[
+            "Privacy protection",
+            "Protecting the user's personal information is a fu…nt on a regular basis and understand the changes.",
+            "First, the collection of personal information",
+            "1. This platform provides individuals with access …mation you provide, including but not limited to:",
+            "(1) Personal information provided to the Platform when you register on the Platform;",
+            "(2) Your browser or mobile client data automatical…and the web page records you requested to access;",
+            "(3) User personal information that the platform legally obtains from business partners;",
+            "(4) Other personal information obtained by the platform through legal channels.",
+            "2. The above personal information is provided by y… an impact on your use of the product or service.",
+            "Second, the use of personal information",
+            "Personal information collected, processed and stor…uding the processing of personal information) by:",
+            "1. The platform (including branches) can generate …or related products and services of the platform;",
+            "2. Disclose and use the affiliates of the platform…ing companies, associates, etc. of the platform);",
+            "3. Disclose and use the other products or services…partners of the platform for their communication;",
+            "4. The platform and affiliates and partners to mee…asis, you agree to receive the above information;",
+            "5. Disclose or use the intended transferee when se…or transferring our business or any part thereof.",
+            "You agree to waive all claims, liabilities and los…dance with this Privacy Policy and the statement.",
+            "In addition, we have taken steps to prevent money …ss-match your personal information with its data.",
+            "Third, the storage of personal information",
+            "Personal information collected by this platform ma…ree to the above transfer, storage or processing.",
+            "Fourth, disclaimer",
+            "The platform does not assume any legal responsibility under the following circumstances:",
+            "1. The disclosure of any personal information caus…l information that is not caused by the platform;",
+            "2. Any dispute arising from the use of your person…terms of service and statements in this Platform;",
+            "3. This platform provides your personal informatio…gal requirements or relevant government policies;",
+            "4. Any shutdown of the platform due to hacking, computer virus intrusion or government regulation;",
+            "5. Any consequences caused by force majeure;",
+            "6. Information that you disclose to other third parties with your consent;",
+            "7. The use or disclaimer of the platform as stated in the various terms and conditions of service.",
+            "V. About privacy issues or concerns",
+            "If you have any questions about this Privacy Polic…website (Instrant. Com) Contact customer service.",
+            "6. Modification of personal information",
+            "If you need to modify or correct your personal inf…r Service on the official website (Instrant.com).",
+            "©2014-2018 Instant.com. All Rights Reserved"
+        ]
+      },
+    "service":{
+        "content":[
+        "Terms of Service",
+        "Please read these Terms of Service carefully (hereinafter referred to as \"the Terms\"). In particular, the terms of exemption or limitation of liability, the jurisdictional and legal applicable provisions, and the separate terms for the opening or use of a service. By clicking the \"Create Account\" button or by accessing or using the Service, you agree to be bound by these Terms and all additional terms. Do not access or use the Service unless you have read and accepted all of these Terms and Conditions, and your access to or use of the Service is deemed to have been read and agreed to be bound by all of these Terms.",
+        "The Instant Trading Platform reserves the right to change or modify the content contained in these Terms at any time, including but not limited to any policies or guidelines of this Website. We will post the revised terms to this website and include the \"last revised\" date at the top of these Terms, or by email to the user's registered email address, or in any other way determined by the immediate trading platform. Any changes will take effect immediately after the site's update is posted or after the changes are announced, and subsequent changes will continue to take effect. You waive your right to receive specific notices of such changes and continue to use this website to indicate your acceptance of such changes. If you do not agree to the changed or modified terms, please stop using this website and related services immediately. We hope that you review these terms frequently to ensure that you understand the terms and conditions that apply to your access to and use of the Service. If you have any questions about using this website, please contact charley.wang@alphawizard.co",
+        "These Terms and Additional Terms apply to your access and use of any services provided by the Instant Trading Platform (\"IMT\", \"Company\" or \"We\"), including but not limited to the Website http:// Instrant. Com (hereinafter referred to as \"immediate trading platform network\" or \"this website\") and the mobile application and exchange services we provide (collectively referred to as \"the service\"). The signing of other relevant agreements regarding the products offered on this website will not affect the entry into force of this clause. If you use the Service on behalf of any organization, you represent and warrant",
+        "(a) The institution is a legal institution that complies with local laws and regulations;",
+        "(b) You have the right to accept these terms on behalf of the institution. If you violate this clause, the agency agrees to be responsible for your actions and bear the corresponding legal consequences;",
+        "I. [Scope of application]",
+        "This service is only available to users 18 years of age or older. By accessing or using our services, you represent and ensure that you are at least 18 years of age and have not been denied the right to apply the Service. You also warrant that you are not on any list of trade or economic sanctions, such as the UN Security Council sanctions list, nor that the Cayman Islands International Financial Services Commission restricts or prohibits the application of any trading platform. In addition, the Instant Trading Platform may not offer this service in all countries or regions, and may or may not provide this service to users in restricted areas, including China, Cuba, Iran, North Korea, Syria, Sudan, Bangladesh. Countries such as Bolivia, Ecuador, Kyrgyzstan and the United States of America. The content of this Agreement is not protected by the laws of the country in which the user is located. When using our services, please ensure that your country or region permits or does not prohibit you from accessing and using our services. Therefore, if you do not meet these requirements, do not use our services.",
+        "II. [Our Service Description]",
+        "We offer an online trading platform that only contains digital assets for trading coins, contracts and other derivatives of digital assets (or crypto tokens or digital tokens or cryptocurrencies). Traders trade on their own platform, and the instant trading platform as a platform provider only provides relevant technical support and does not participate in any actual transactions. Traders must open a digital asset account and pre-store digital assets before starting a trade. The instant trading platform does not accept the legal currency of any country, does not introduce any legal currency transactions, and does not apply to the legal currency settlement of any country, so we are a platform that only provides transactions between digital assets. Traders may request to withdraw their digital assets at any time, subject to the limitations of this clause.",
+        "The instant trading platform will try to ensure the accuracy of the information on the website. The information and content on the website are subject to change without notice and are solely intended to assist the user in making an independent decision. The immediate trading platform has taken reasonable steps to ensure the accuracy of the information on the website. However, we do not guarantee the accuracy, suitability, reliability, completeness, performance and/or appropriateness of any of the services or product content provided on this website, and without any direct or indirect loss or damage, information transfer. Delay or failure to take responsibility. The instant trading platform is not responsible for the use or interpretation of such information.",
+        "Users must prepare the following equipment and bear the following expenses:",
+        "(1) Internet access equipment, including not limited to computers or other Internet terminals, modems and other Internet access devices;",
+        "(2) Internet expenses, including not limited to network access fees, Internet equipment rental fees, mobile phone traffic charges, etc.",
+        "While accepting the services of the instant trading platform network, the users agree to accept various types of information services provided by the instant trading platform network. The user hereby authorizes an instant trading platform to send business information to their email, mobile phone, mailing address, etc. The user has the right to choose not to accept all kinds of information services provided by the instant trading platform network, and enter the relevant page of the immediate trading platform network to make changes.",
+        "The user understands and agrees that the services of the instant trading platform are provided in accordance with the current state of the art and conditions. The immediate trading platform will do its utmost to provide services to users to ensure the continuity and security of the service; but the immediate trading platform cannot foresee and prevent legal, technical and other risks at any time, including but not limited to force majeure, viruses, Trojans, hackers, If the system is unstable, third-party services, government actions, etc. may cause service interruption, data loss, and other losses and risks, the user shall bear the corresponding losses due to the above-mentioned reasons.",
+        "The system platform is not able to operate normally due to the following conditions, so that the user cannot use the services or cannot be properly entrusted, the trading platform shall not be liable for damages, including but not limited to:",
+        "A. Immediately during the system shutdown maintenance period announced by the trading platform platform;",
+        "B. If the telecommunication equipment fails, data transmission cannot be performed;",
+        "C. Due to force majeure factors such as typhoons, earthquakes, tsunamis, floods, power outages, wars, terrorist attacks, etc., the system barrier of the immediate trading platform platform cannot perform business;",
+        "D. Service interruption or delay caused by hacker attacks, computer virus intrusion or seizures, technical adjustments or failures in the telecommunications sector, website upgrades, banking problems, temporary closures due to government regulations, etc.",
+        "E. Losses due to technical problems that cannot be predicted or solved by existing technical forces in the industry;",
+        "G. The user uses the service through a non-immediate trading platform network authorization;",
+        "H. Loss to the user or other third party due to the fault or delay of the third party;",
+        "J. Other immediate trading platform networks cannot control or reasonably foresee.",
+        "Due to system failures, network reasons, unexpected transactions such as DDOS and other hacking attacks may lead to abnormal transactions, market interruptions, and other possible abnormal conditions, the immediate trading platform has the right to cancel the abnormal transaction results according to the actual situation, and roll back a certain period of time. All deals.",
+        "Some services of the immediate trading platform are provided by way of charging. If the user uses the charging service, please abide by the relevant agreement. The immediate trading platform may modify and change the charging standards and methods of the charging service according to actual needs. The immediate trading platform may also charge for some free services. The trading platform will immediately notify or announce the corresponding service page before the aforementioned modification, change or start of charging. If the user does not agree to the above modifications, changes or paid content, they should stop using the service.",
+        "The instant trading platform network will not ask for passwords from any users, and will not allow users to make payments to any accounts and btc/ltc recharge addresses provided in the non-site trading center. Please do not trust any instant trading platform network discounts, offers and other information. The loss caused by the payment or the currency in the account and address provided by the non-btc/ltc trading center is irresponsible and the user is responsible for it.",
+        "Transaction exception handling: Users agree and acknowledge when using the Service, which may not be available due to digital currency network connection issues or other irresistible factors. The user ensures that the information you entered is correct. If the website fails to notify the user of the subsequent transaction processing method due to the above-mentioned abnormal situation due to the data error, this website does not assume any liability for damages.",
+        "The User agrees that, based on the needs of operational and transaction security, the Website may temporarily stop providing or restrict some functions of the Service, or provide new functions. When any function is reduced, increased or changed, as long as the user still uses the Service, the User is still Agree to this agreement or the changed agreement.",
+        "This website has the right to know the true trading background and purpose of the products or services used by the users. Users should truthfully provide the true, comprehensive and accurate information required by this website; if the website has reasonable reasons to suspect that the users provide false transaction information, The company reserves the right to temporarily or permanently limit some or all of the features of the products or services used by the user.",
+        "III. [Risk of Trading Digital Assets]",
+        "Digital asset transactions involve significant risks. Trading or holding digital assets is likely to cause you huge losses. Therefore, you should carefully consider whether you want to trade or hold digital assets or related derivatives and leverage based on your financial situation. You should fully understand and follow the market principle of “buy and sell” and fully understand the risks of trading or holding digital assets or related derivatives, and bear the consequences of trading or holding digital currency or derivatives.",
+        "1. Immediate trading platforms believe that digital assets should not be called cash and legal tenders because they are not backed by the government or the central bank. The immediate trading platform cannot guarantee the orderly stability of the digital asset market. You should be cautious in trading digital assets (and any other assets). Prices will fluctuate at any time. Due to price fluctuations, you may have large profits or losses. Any digital asset or trading position can fluctuate significantly and may even become worthless.",
+        "2. When using the service, if the user or user's trading instructions have errors (including but not limited to price, quantity, etc.) and the user's transaction is lost, if the transaction rules are not based on the local site, the liability for loss will be borne by the user. To bear.",
+        "3. Any loss caused by the user's fault is borne by the user. The fault includes but is not limited to: failure to follow the transaction prompt, failure to conduct the transaction in time, forgetting or leaking the password, the password is cracked by others, and the computer used by the user is being used by others. Intrusion.",
+        "4. In the use of this service, if the user improperly profit from the potential undiscovered vulnerabilities in the website trading rules, the site will contact the user to recover, you must effectively cooperate, otherwise the site will take However, it is not limited to recourse measures such as restricting account transactions, freezing digital assets in accounts, and suing in courts with jurisdiction. The recourse costs incurred by the users for immediate trading platforms will not be borne by the users.",
+        "5. The immediate trading platform may, in the course of providing the service, send advertisements (including offline activity information) to the users in the third direction according to the local laws and regulations. For the relevant advertising users, they should judge the authenticity of the advertising information and judge for themselves. The behavior is responsible, except for the loss or damage suffered by the user due to the transaction conducted by the advertisement information, the immediate trading platform is not responsible. The user shall carefully judge the authenticity and reliability of the advertisement information appearing in the service process of the immediate trading platform. Except as clearly stipulated by the law, the user shall be responsible for the transactions conducted according to the advertisement information.",
+        "IV. [Create Account]",
+        "In order to use any of the services offered on this platform, you must first register your account by providing your name, email and password, and confirm acceptance of these Terms of Service. You agree not to allow anyone to use, direct, or update any of your information to the Instant Trading Platform, or your account may be stolen by anyone. It is your responsibility to retain, protect and protect any keys, certificates, passwords, access codes, user IDs or other credentials and login information (collectively referred to as \"passwords\") that have been provided to you, or the above-mentioned passwords generated by you using the Services. . If you lose the above password, you may not be able to access your account. You agree to immediately notify the Instant Trading Platform of any unauthorized use of your password. The Trading Platform will not be liable for any liability, loss or damage resulting from unauthorized use of your password. Since this site is an intermediate trading website, login passwords, passwords, transaction passwords, SMS passwords, Google passwords, etc. may not use the same password, otherwise there will be security risks, and the related responsibilities will be borne by the user.",
+        "The user has the right to choose whether to become an instant trading platform network user. If the user chooses to become a registered user of the instant trading platform network, he can create and modify the nickname by himself. The naming and use of user names and nicknames are subject to relevant laws and regulations and are ethical. User names and nicknames must not contain any insults, threats, obscenities, defamation, etc. that infringe on the legitimate rights and interests of others.",
+        "Once the user has successfully registered, he will become the user of the instant trading platform network, and will get the user name (user mailbox) and password, and be responsible for all activities and events that occur after logging in to the system with this group of usernames and passwords. Legal liability caused directly or indirectly by the words, acts, etc.",
+        "If the user password is lost, you can reset the password by registering the email address. Users registered with the mobile phone number can retrieve the original password by using the mobile phone number. Users should immediately notify the immediate trading platform network if they find any illegal use of the username or other security breaches.",
+        "Special reminders should keep your users and passwords in a safe place. When you are done using it, you should quit safely. It is your responsibility to be responsible for theft or password theft due to improper storage.",
+        "V. [User rights and license restrictions]",
+        "In accordance with these Terms, we grant you limited, non-exclusive, non-transferable licenses to access and use the Instant Trading Platform websites and services for the sole purpose of the immediate trading platform license approval. You agree that you may not copy, distribute, distribute, sell, license, reverse engineer, modify, post or participate in the transfer or sale of derivative works in any other manner, or in any other way, use the content of any immediate trading platform.",
+        "You agree to:",
+        "1. All rights, title and interest in the Services and related software, websites and technologies, including all intellectual property rights therein, are immediate trading platforms;",
+        "2. Except for the limited license granted by this service license, the rights or benefits of the service may not be transferred;",
+        "3. This service is protected by copyright and other intellectual property laws. The Instant Trading Platform reserves all rights not expressly granted under this clause.",
+        "4. This website has the right to inquire, freeze or deduct items and accounts of users in the account according to the requirements of judicial organs, administrative organs and military organs including but not limited to public security organs, procuratorial organs, courts, customs, tax authorities, etc. .",
+        "5. The user has the right to obtain the reward given by the instant trading platform network after the information is distributed according to the relevant regulations of the website;",
+        "6. The user has the right to modify the modifiable information in his personal account, choose the nickname and enter the introductory text, and decide whether to provide the content of the required fields;",
+        "7. The user has the right to participate in various online and offline communication activities provided by the immediate trading platform network organization;",
+        "8. Users have the right to enjoy other types of services provided by the Instant Trading Platform Network in accordance with the provisions of the Instant Trading Platform website.",
+        "9. If the user disagrees with the modification of the Terms, or is dissatisfied with the service of the Immediate Trading Platform Network, he may exercise the following rights:",
+        "(1) Stop using the network service of the immediate trading platform network;",
+        "(2) Inform the immediate trading platform network to stop its service through customer service and other channels. Upon termination of the service, the user's right to use the instant trading platform network service is immediately terminated. In this case, the Instant Trading Platform Network is not obligated to transmit any unprocessed or unfinished services to the User or any third party not directly related. The user shall bear the loss caused by the user automatically stopping the related service.",
+        "VI. [User Obligations]",
+        "Users are required to abide by laws and regulations when using this service, and may not use this service to engage in any illegal or illegal activities, including but not limited to:",
+        "1. You must not use this site to endanger national security, disclose state secrets, and must not infringe on the legitimate rights and interests of the state's social collectives and citizens. You may not use this site to make, copy and disseminate the following information:",
+        "(1) Inciting resistance, undermining the implementation of the Constitution and laws and administrative regulations;",
+        "(2) inciting subversion of state power and overthrowing the socialist system;",
+        "(3) inciting the split of the country and undermining national unity;",
+        "(4) Inciting ethnic hatred, ethnic discrimination, and undermining national unity;",
+        "(5) fabricating or distorting facts, spreading rumors, and disturbing social order;",
+        "(6) Promoting feudal superstition, obscenity, pornography, gambling, violence, murder, terror, and abetment;",
+        "(7) blatantly insulting others or fabricating facts against others, or carrying out other malicious attacks;",
+        "(8) Damage to the credibility of state organs;",
+        "(9) Other violations of the Constitution and laws and administrative regulations;",
+        "(10) Conducting commercial advertising. If the immediate trading platform discovers or receives reports from others that the information published by the user violates the provisions of this article, the immediate trading platform has the right to make independent judgments and take technical measures to delete, block or disconnect the links. At the same time, the immediate trading platform has the right to take measures including, but not limited to, suspending or terminating the service, restricting, freezing or terminating the use of the number, and pursuing legal liability, depending on the nature of the user's behavior. If the user violates the provisions of this article and causes any third party damage, the user shall bear the responsibility independently; if the trading platform suffers losses immediately, the user shall also compensate for it.",
+        "2. Users may not maliciously register the trading platform website account by any means, including but not limited to registering multiple accounts for the purpose of profit, speculation, cashing, and winning. Users should not steal other user accounts.",
+        "If the user violates the above provisions, the trading platform network has the right to directly take all necessary measures, including but not limited to deleting the content posted by the user, canceling the star rating, honor and virtual wealth obtained by the user on the website, suspending or sealing up the user account. Cancel the benefits derived from violations, and even pursue the legal liability of users through litigation.",
+        "3. Users may not use the plug-ins, plug-ins or third-party tools authorized by the Instant Trading Platform Network to interfere, destroy, modify or exert other influences on the services under these Terms. If the user has the above behavior, causing any third party or immediate trading platform to suffer losses, the user shall bear the corresponding liability and all legal consequences arising therefrom.",
+        "4. It is forbidden for users to use the instant trading platform network as a place, platform or medium for engaging in various illegal activities in any form. Users may not engage in any commercial activities in the name of the Site without the authorization or permission of the Instant Trading Platform Network, nor may they use the Instant Trading Platform Network as a venue, platform or medium for commercial activities in any form.",
+        "If the user violates the above provisions, the trading platform network has the right to directly take all necessary measures, including but not limited to deleting the content posted by the user, canceling the star rating, honor and virtual wealth obtained by the user on the website, suspending or sealing up the user account. Cancel the benefits derived from violations, and even pursue the legal liability of users through litigation.",
+        "5. All information published by the user in the instant trading platform network in various forms shall comply with the relevant provisions of the national laws and regulations of the place of registration and the relevant provisions of the website, conform to the social order and good customs, and does not infringe the legitimate rights and interests of any third party subject, otherwise the user Take full responsibility for all legal consequences arising therefrom.",
+        "6. Users may not use the instant trading platform network to engage in any illegal activities, and may not use the immediate trading platform network or digital assets to conduct activities including but not limited to money laundering, financing terrorism, evading trade and economic sanctions, if users use the instant trading platform network. In any illegal activity, the relevant state agency or agency may bring a lawsuit, fine or other sanctions to the user, and request immediate assistance from the trading platform network. The act is irrelevant to the immediate trading platform network, and the trading platform network does not bear any law. Responsibility, related legal responsibility is borne by the user.",
+        "VII. [Service Fees]",
+        "1. When the user uses the service, the company has the right to charge the user for the service fee according to the corresponding rules. The immediate trading platform has the right to formulate and adjust the service fee. The specific service fee is based on the announcement of the charging method listed on the trading platform of the user immediately when the user uses the service or other written agreement reached between the user and the immediate trading platform network.",
+        "2. Unless otherwise stated or agreed, the User agrees that the Trading Platform Network is entitled to deduct the above service fees directly from the assets of the User Account.",
+        "VIII. [Change, Interruption, Termination, Restriction, Freeze of Service]",
+        "1. The immediate trading platform may change the service content, and may interrupt, suspend or terminate the service.",
+        "2. The immediate trading platform has the right to decide its own business strategy. In the event of merger, division, acquisition, or asset transfer on the immediate trading platform, the immediate trading platform may transfer the relevant assets under the service to a third party; the immediate trading platform may also transfer some or all of the services under this agreement to you after unilaterally notifying you. Third party operations or performance. The specific transferee is subject to the notice of the immediate trading platform.",
+        "3. In the event of any of the following circumstances, the Trading Platform reserves the right to discontinue or terminate the services provided to you without notice:",
+        "(1) According to the law, you should submit true information, and the personal information you provide is not true, or it is inconsistent with the information at the time of registration and fails to provide reasonable proof;",
+        "(2) You violate the relevant laws and regulations or the agreement of this agreement;",
+        "(3) in accordance with the provisions of the law or the requirements of the competent authority;",
+        "(4) For security reasons or other necessary circumstances.",
+        "4. The immediate trading platform has the right to charge according to the agreement of this agreement. If you do not pay in full and on time, the trading platform has the right to interrupt, suspend or terminate the service.",
+        "5. You can close your account at any time. You are still obligated to perform your obligations to any pending transaction. In addition, you will be obligated to pay the immediate trading platform for any costs incurred prior to closing. The Instant Trading Platform may also terminate your account at any time and notify you by email or other means. If your service is terminated, the instant trading platform can permanently delete your data from the server, except as otherwise provided by laws and regulations. Immediately after the termination of the service, the trading platform is not obligated to return the data to you.",
+        "If you are suspected of failing to comply with these terms, constitute unacceptable fraud or administrative risk to the immediate trading platform, or you provide us with false, incomplete, inaccurate or misleading information, the trading platform may suspend your trading. Access the service. The Trading Platform will not be liable for any loss caused by the immediate trading platform closing or suspending your account.",
+        "6. The User agrees that in order to secure the user's account and the digital currency therein, in accordance with the provisions of this Agreement, the provisions of laws, regulations and legal documents, the requirements of the government for administrative authority and the possible account of the user based on the judgment of the Company. In the event of a risk, the website has the right to freeze all or part of the account under the user name, that is, to temporarily close some or all of the use rights of these accounts. The reverse process of freezing is thawing, that is, the website freezes the frozen account. When the freezing occurs, if the user applies for thawing, the website has the right to decide whether to allow all or part of the thawing according to the above-mentioned freezing reasons according to the provisions of this stipulation. The user should fully understand that the thawing application is not necessarily allowed, and when applying for thawing Users should cooperate with this website to verify the user's identity requirements, including but not limited to identity information, identity cards, passports, other valid identification documents and other information or documents required by the company.",
+        "IX. [Comply with your local laws]",
+        "It is the responsibility of the user to determine whether the transaction or holding of the digital asset complies with the laws, regulations or policies of the user's location, and assumes the loss and legal liability caused by non-compliance with the laws, regulations or policies of the user's location. In addition, you agree to comply with all applicable local laws. The immediate trading platform's business activities are not part of the definition of international financial services under the IFSC Act of the Cayman Islands, as customers of the immediate trading platform cannot use (and must not bring in) any legal currency to purchase/transact digital assets, nor can it be on our platform. The digital assets are sold or redeemed into any legal currency.",
+        "With regard to the prevention of the financing of terrorism and anti-money laundering activities, the immediate trading platform is not the subject of the Cayman Islands Anti-Money Laundering and Counter-Terrorism (Prevention) Act. However, the immediate trading platform voluntarily conducts due diligence as appropriate to prevent money laundering and terrorist financing risks and will work with local authorities. When using our services, you confirm that your actions are conducted in a legal and correct manner and that there are no illegal activities (including but not limited to money laundering, self-help terrorism, etc.). At the same time, you should confirm that your digital assets are not from illegal activities. In the event of an illegal act, the trading platform may, at its discretion or with local law enforcement agencies, control, limit or empty your account and digital assets.",
+        "X. [Privacy Policy]",
+        "The instant trading platform respects the privacy of users. The Immediate Trading Platform Privacy Policy and Statement is provided separately and describes how the Instant Trading Platform collects, stores, discloses and uses information related to your privacy. You agree that the Instant Trading Platform will use your information in accordance with the terms of the Instant Trading Platform Privacy Policy and the Notice. If the content of the provisions of the Privacy Policy conflicts with the “Privacy Policy and Statement” and the provisions of this article do not clearly stipulate the content of the user's personal information, the contents of the “Privacy Policy and Statement” shall prevail.",
+        "The instant trading platform network user information referred to in this agreement refers to information that complies with laws, regulations and relevant regulations and meets the following scope:",
+        "(1) Personal information provided to the immediate trading platform network when the user registers for the immediate trading platform network;",
+        "(2) User's browser or mobile client data automatically received and recorded by the trading platform network when using the instant trading platform network service, participating in website activities or visiting the website webpage, including but not limited to IP address, website cookie Information and web page records requested by the user;",
+        "(3) User personal information that is legally obtained by the trading platform network from the business partner;",
+        "(4) User personal information obtained by other instant trading platform networks through legal channels.",
+        "Immediate trading platform network promises:",
+        "Except for the hidden policies and statements, the trading platform network will not disclose the user's password, name, mobile phone number and other non-public personal information to any third party without legal reasons or prior permission from the user.",
+        "XI. [Compensation]",
+        "In case of any loss caused by the immediate trading platform and its agents (if any), employees, officers, directors, affiliates, subsidiaries and successors due to user reasons, the user shall compensate for the corresponding losses, if the user immediately causes an immediate trading platform If its agents (if any), employees, officers, directors, affiliates, subsidiaries and successors suffer any third-party claims, the user shall compensate them for any losses caused by any third-party claims. Similarly, in addition to the user’s separate violation of these terms, if the immediate trading platform and its agents (if any), employees, officers, directors, affiliates, subsidiaries and successors cause any loss to the user, immediate trading The platform and its agents (if any), employees, officers, directors, affiliates, subsidiaries and successors shall compensate for the corresponding losses within the scope of their fault, if due to the immediate trading platform and its agents (if any), Employees, officers, directors, affiliates, subsidiaries and successors suffer from any third-party claims, and the immediate trading platform and its agents (if any), employees, officers, directors, affiliates, subsidiaries The company and the successor shall compensate the user for the loss caused by any third party claim.",
+        "XII. [Force Majeure and Disclaimer]",
+        "1. The user understands and agrees that in the process of using the service, there may be risk factors such as force majeure, which may cause the service to be interrupted. Force majeure is an objective event that cannot be foreseen, cannot be overcome, and cannot be avoided and has a significant impact on one or both parties, including but not limited to natural disasters such as floods, earthquakes, plague epidemics and storms, and social events such as war, turmoil, government actions or Computer system, communication system failure, etc. In the above situation, the trading platform will try its best to cooperate with the relevant units in the first time and repair it in time, but the damage trading platform network will not bear any responsibility.",
+        "2. Immediate trading platform network as a third-party platform of “network service provider” does not guarantee the truthfulness and accuracy of the information on the website platform and the service can fully meet the needs of users. The trading platform network is not liable for any errors, insults, slander, inaction, obscenity, pornography or embarrassment that the user may encounter in accepting the services of the instant trading platform network.",
+        "3. Based on the particularity of the Internet, the instant trading platform network does not guarantee that the service will not be interrupted, and does not guarantee the timeliness and security of the service, and does not assume any responsibility caused by the reason of the immediate trading platform network.",
+        "The Instant Trading Platform Network is intended to enable users to securely access and use the Site, but the Trading Platform Network does not represent or warrant that the Site or its servers are free of viruses or other potentially harmful factors; therefore, users should use industry-recognized software. Kill any virus in the download file from the instant trading platform.",
+        "4. The immediate trading platform network is not responsible for the failure to save, modify, delete or store the information published by the user. It is not responsible for the typographical errors, negligence, and authenticity of the information caused by the intentional trading platform network on the website.",
+        "The Trading Platform Network has the right but no obligation to improve or correct any omissions or errors in any part of this website.",
+        "5. Unless the Immediate Trading Platform Network expressly agrees in writing, the Instant Trading Platform Network may provide any content information obtained from the Website by the User in any way, including but not limited to including, via, connected or downloaded, including but not limited to advertising. Etc., does not guarantee its accuracy, completeness and reliability; for any products, services, information or materials purchased or obtained by users due to the content information on this website, users shall judge the authenticity and accuracy of the information by themselves. The trading platform network is not responsible. The user is solely responsible for the risks associated with the use of the information content of this website.",
+        "6. The user comments published by all users in the trading platform network represent only the personal opinions of the users. It does not mean that the website agrees with its opinions or confirms its description. This website does not assume any legal responsibility arising from user comments.",
+        "7. The immediate trading platform has the right to delete all kinds of information in the immediate trading platform network that does not comply with the provisions of the law or agreement, and reserves the right not to notify the user.",
+        "8. All notices sent to the user, the instant trading platform network will be delivered through formal page announcements, station letters, emails, customer service calls, mobile phone text messages or regular mail. Any activity or information such as winnings, offers, etc. obtained by the formal channels of the instant trading platform network, the immediate trading platform network does not bear legal responsibility.",
+        "9. The immediate trading platform has the right to adjust the service fee rate according to the market conditions and has the right to decide the termination of the free promotion period.",
+        "In any case, users should not be convinced of asking for passwords or other network information related to property. In the case of digital asset trading operations, please be sure to verify the identity of the other party first, and please always pay attention to the risk warning of the immediate trading platform network to prevent fraud.",
+        "XIII. [Applicable law and place of trial]",
+        "The establishment, entry into force, performance, interpretation and resolution of this clause apply to the laws of the Cayman Islands and are governed by and construed in accordance with the laws of the Cayman Islands without resorting to its conflict of laws provisions. You agree that your conduct under law or in accordance with the Equity and not involving arbitration (as described below) will only be filed in the Cayman Islands, and you hereby irrevocably and unconditionally agree to create under this Terms. Any litigation or dispute will be submitted to the exclusive jurisdiction of the Cayman Islands Court.",
+        "XIV. [dividability]",
+        "If any provision of this Agreement is deemed to be unlawful, invalid, or unenforceable for any reason, such provision shall be deemed severable and shall not affect the legal effect of any other provision.",
+        "XV. [Complaint]",
+        "If you have any complaints, feedback or questions, contact our customer service at the official website of the Intranet (Instrant.com). When you contact us, please provide your name and email address and other information we may need to identify you, as well as the transaction information you are asking about or the complaint.",
+        "XVI. [Other regulations]",
+        "These terms stipulate a complete understanding of the subject matter of the parties and replace all previous understandings and communications related to them. Any other documents that are inconsistent with the provisions of this clause will not be binding on the immediate trading platform. You represent and warrant that all information disclosed to the Instant Trading Platform in connection with these Terms of Service is true, accurate and complete.",
+        "The “Privacy Policy and Statement” provided by the Instant Trading Platform and the “Risk and Compliance Statement of the Immediate Trading Platform” are an integral part of these Terms and have the same legal effect as the Terms."
+        ]
+    },
+    "agentIndex":{
+        "a":"Road to promotion",
+        "b":"Privilege",
+        "c":" Rule ",
+        "d":"My number of invites",
+        "e":"Get a rebate(SPO)",
+        "f":"Invitation record",
+        "g":"Rebate record",
+        "h":"Registration time",
+        "i":"Invitee account",
+        "j":"Account status",
+        "k":"Real name",
+        "l":"Deposit",
+        "m":"Registration time",
+        "n":"Currency",
+        "o":"Quantity",
+        "p":"Return servant",
+        "q":"Status",
+        "r":"Unreal name",
+        "s":"Real name",
+        "t":"Not payment",
+        "u":"payment",
+        "v":"Not arrived",
+        "w":"Arrived",
+        "x":"Login to view",
+        "nodata":"No data",
+        "0":" privileges",
+        "1":"require:",
+        "2":"Re-evaluation once a month, rewards 28th each month, no lockout",
+        "3":"1 person for each reward {0}SPO",
+        "4":"{0}SPO rewards per month",
+        "5":"Real name certification",
+        "6":"Number of real names {0}",
+        "7":"Number of users under the name of {0}",
+        "8":"Number of trading users under the name {0}",
+        "9":"The total amount of user transactions under the name {0}SPO",
+        "10":"The number of direct subordinates under the name {0}",
+        "11":"The user holding the total amount of {0}SPO",
+        "12":"1. Quick Charge: Enjoy fast charge service.",
+        "13":"2. Preferential rates: enjoy the spot, the very low rate of the bar.",
+        "14":"3. Festival Care: Exclusive gifts are sent to major festivals.",
+        "15":"4. Private Customer Service: Large Account Manager 1V1 24/7 service.",
+        "16":"5. Exclusive consultants: Regularly send exclusive investment market reports.",
+        "17":"6. Credit line: Large amount of loans and exclusive quotas are open at any time.",
+        "18":"7. Event VIPs: High-end offline salons, private parties, and invited parties.",
+        "19":"1. The activity privilege can obtain the exclusive invitation code, the friend accepts the invitation and registers, and each time a transaction fee is generated, you will get a corresponding proportion of rebates;",
+        "20":"2. The rebate is issued to your trading account in the form of Token, the rebate amount = the actual transaction fee* rebate ratio;",
+        "21":"3. The quotation of the friend's transaction rebate data will be released to your account within 24 hours after the completion of the statistics;",
+        "22":"4. The level above the Cavaliers will be re-evaluated once a month, and rewards will be issued on the 28th of each month, without locking the position;",
+        "23":"5. If you find a malicious bill, market risk, etc., if the activity is adjusted, the instantex will retain the final right of interpretation.",
+        "24":"I know"
+    },
+    "agreement": {
+        "title":"User Agreement",
+        "content":[
+            "Instant Exchange is a specialized small and medium-sized enterprise financing service platform built by a group of senior participants in the field of digital assets.  It is dedicated to solving enterprise application scenarios and project circulation issues (such as using blockchain technology to solve the assets securitization process). The platform was originally designed to provide an investment and financing platform for people interested in digital assets to purchase equity based on real estate, mines and company's equity. Meanwhile, as the influence of digital assets expands and digital assets become more and more popular, the platform begins to aggregate global high-quality blockchain assets, and is committed to building a world-class asset service platform to provide users with safer and more accessible blockchain asset exchange services.All contents of this website are for the convenience of users and may be available in multiple languages. In case of conflict or omission, the Chinese content shall prevail.",
+            "Important Hint:",
+            "Digital asset trading is a big risk and is not suitable for the vast majority of people. You need to know that this investment may result in partial or total loss, so you should determine the amount of the investment in terms of the extent of the damage you can afford. You need to understand that digital assets generate derivative risks, so if you have any questions, it is recommended to seek the assistance of a financial consultant. In addition to the risks mentioned above, there are risks that are not predictable. You should carefully evaluate your financial situation and the above risks before making a decision to buy or sell digital assets and bear all the losses arising therefrom. We are not responsible for this. If the Platform believes that you have violated this Agreement in accordance with its unilateral judgment, or according to the laws of your jurisdiction, the services provided by this website or the use of the services provided by this website are illegal, the platform reserves the right to suspend or terminate yours at any time. Account, or suspend your use of the services or digital asset transactions offered on this website.",
+            "Please read carefully:",
+            "1 You understand that this website is only used as a place for you to obtain digital asset information, to find parties, to negotiate and conduct transactions on digital assets. This website does not participate in any of your transactions, so you should carefully determine the relevant digital assets and / or the authenticity, legality and validity of the information, and bear the responsibility and loss arising therefrom.",
+            "2 Any opinions, messages, discussions, analysis, prices, recommendations and other information on this website are general market comments and do not constitute investment advice. We do not assume any loss arising directly or indirectly from relying on this information, including but not limited to any loss of profits.",
+            "3 The contents of this website are subject to change without prior notice. We have taken reasonable steps to ensure the accuracy of the information on this website, but we cannot guarantee the accuracy of the information. We will not bear any loss, directly or indirectly, arising from the information on this website or the delay or failure in the event of failure to link to the Internet, transmission or receipt of any notice or information.",
+            "4 There are also risks in the trading system of the Internet, including but not limited to software, hardware and Internet link failures. Because we cannot control the reliability and availability of the Internet, we are not responsible for distortions, delays, and link failures.",
+            "5 In order to ensure the safety of assets, large amounts of money need to provide video certification to customer service;",
+            "6 Any service on this website does not accept credit card payments;",
+            "7 It is forbidden to use this website for all illegal trading activities or illegal acts such as money laundering, smuggling, commercial bribery, etc. If any illegal transactions or illegal acts are found, the website will adopt various means, including but not limited to freezing accounts, to inform relevant We do not assume all the responsibilities arising from the authority, and reserve the right to pursue the responsibility of the relevant parties.",
+            "8 It is forbidden to use this website to conduct malicious market manipulation, improper transactions and other unethical trading activities. If such incidents are found, this website will warn and restrict transactions for all unethical behaviors such as malicious manipulation of prices and malicious influence on trading systems. Preventive measures such as shutting down accounts, we do not assume all the responsibilities arising therefrom and reserve the right to pursue accountability with relevant parties.",
+            "1.  The General",
+            "1.1 You should read this agreement carefully before using the services provided on this website. If you do not understand or have other needs, please consult a professional lawyer. If you do not agree to this Agreement and/or the possibility of modification at any time, please stop using the services provided on this website immediately or stop using this website. By accessing this website, using any of the services on this website or any other similar behavior, you acknowledge that you understand and fully agree to the contents of this Agreement, including any modifications to this Agreement at any time from this website.",
+            "1.2 You can become a member of this website (hereinafter referred to as “Member”) by filling in relevant information in accordance with the requirements of this website and successfully registering after other relevant procedures.By clicking the \"Agree\" button during the registration process, you sign the agreement with the company in the form of an electronic signature; or you click on any \"Agree\" or similarly similar button during the use of this website or use the services provided on this website. By then, you agree that you fully understand, agree and accept all the terms and conditions of this Agreement. No written agreement signed by you will have any effect on your legal binding.",
+            "1.3 After you become a member of this website, you will receive a member account and corresponding password. The member account and password are kept by the member; the member shall be legally responsible for all activities and events carried out on your account.",
+            "1.4 Only who become members of this website can use the digital asset trading platform provided on this website to conduct transactions and enjoy other services that only members can obtain on this website; Other than members, you can only log in to the website, browse the website and enjoy partly services on this website.",
+            "1.5 By registering and using any of the services and features provided by this website, you will be deemed to have read, understood and:",
+            "1.5.1 Accept all terms and conditions of this Agreement.",
+            "1.5.2 You confirm that you are 16 years of age or older and have a legal age for contractability under different applicable laws.Your acceptance of the services of this website, such as registration, sale or purchase, posting of information on this website, shall comply with the relevant laws and regulations of the sovereign country or region that has jurisdiction over you, and have sufficient ability to accept these terms and enter into transactions and use. This website conducts digital asset trading.",
+            "1.5.3 You warrant that the digital assets belonging to you involved in the transaction are legally acquired and owned.",
+            "1.5.4 You agree that you assume full responsibility and any gain or loss for your own trading or non-trading activities.",
+            "1.5.5 You confirm that the information provided at the time of registration is true and accurate.",
+            "1.5.6 You agree to abide by any relevant legal provisions, including for reporting purposes, including reporting any trading profits.",
+            "1.5.7 You agree not to engage in or participate in any act or activity that harms the interests of the Site or the Company at any time, whether or not related to the services provided on the Site.",
+            "1.5.8 This Agreement only binds the rights and obligations between you and us, and does not involve legal relationships and legal disputes between users of this website and other websites due to digital asset transactions.",
+            "2. The agreement revised",
+            "We reserve the right to revise this Agreement from time to time and to make announcements on the website and not to notify you separately. The changed agreement will be marked with the change time on the first page of this agreement, and will be effective immediately upon posting on the website. You should review and update the update time and update content of this agreement from time to time. If you do not agree to the change, you should immediately stop using the service of this website; if you continue to use the service of this website, you accept and agree to the agreement of the revised agreement. ",
+            "3. Registration",
+            "3.1 Registration eligibility",
+            "You acknowledge and undertake that, when you complete the registration process or actually use the services provided on this website in a manner permitted by other websites, you shall have the applicable legal requirements to sign this Agreement and the ability to use the Website Services. Natural person, legal person or other organization. By clicking the Agree to Register button, you or yourself and your authorized agent have agreed to the content of the agreement and are registered and used by the agency. If you do not have the above qualifications, you and your authorized agent shall bear all the consequences arising therefrom, and the company reserves the right to cancel or permanently freeze your account and to hold you and your authorized agent accountable.",
+            "3.2 Purpose of registration",
+            "You acknowledge and promise that your registration on this website is not for the purpose of violating laws and regulations or disrupting the order of trading of digital assets on this website.",
+            "3.3 registration process",
+            "3.3.1 You agree to provide valid e-mail address, mobile phone number and other information according to the requirements of the user registration page of this website. You can use this email address, mobile phone number or other means permitted by this website as your login means to enter this website. If necessary, in accordance with the relevant laws and regulations of different jurisdictions, you must provide your real name, identity documents and other relevant laws and regulations and privacy provisions and anti-money laundering provisions and continuously update the registration information, in line with timely, detailed and accurate requirements. All original typed materials will be cited as registration materials. You are responsible for the truthfulness, completeness and accuracy of such information and assume any direct or indirect damages and adverse consequences resulting therefrom.",
+            "3.3.2 If the laws, regulations, rules, orders, etc. of your sovereign country or region have real-name requirements for mobile phone numbers, you agree to provide registered mobile phone numbers that are registered by real-name. If you do not provide them according to regulations, you will be given Any direct or indirect losses and adverse consequences will be borne by you.",
+            "3.3.3 You are legally, complete and valid to provide the information required for registration and have been verified. You are entitled to the account number and password of this website. If you obtain the account number and password of this website, you will be deemed to have successfully registered and you can log in to the website.",
+            "3.3.4 You agree to receive emails and/or short messages sent by this website in connection with the management and operation of this website.",
+            "4. Service",
+            "This website only provides online trading platform services for you to conduct digital asset trading activities (including but not limited to digital asset trading services) through this website. This website does not act as a buyer or seller to participate in the trading of digital assets itself; this website does not provide Related services for the legal currency of any country.",
+            "4.1 Service Content",
+            "4.1.1 You have the right to browse the real-time market and transaction information of various products of digital assets on this website, and have the right to submit digital asset trading instructions and complete digital asset trading through this website.",
+            "4.1.2 You have the right to view the information under the member account of this website on this website and have the right to apply the functions provided by this website.",
+            "4.1.3 You have the right to participate in the website activities organized by this website in accordance with the rules of the activities published on this website.",
+            "4.1.4 Other services that this website promises to provide to you.",
+            "4.2. Service Rules You are committed to the following service rules of this website:",
+            "4.2.1 You shall abide by the laws, regulations, rules, and policy requirements to ensure the legality of all digital asset sources in the account, and may not engage in illegal or other activities that damage the rights of this website or third parties on this website or using the services of this website. If you send or receive any information that violates the law, violates regulations, infringes on the rights and interests of others, sends or receives pyramidal materials or other harmful information or speech, without the authorization of this website or forging the email header information of this website.",
+            "4.2.2 You should abide by laws and regulations and properly use and keep your website account and login password, fund password, and the mobile phone number bound to the registration, as well as the security of the mobile phone verification code received by the mobile phone. You are solely responsible for any operations and consequences of using this website's account number and login password, fund password, and mobile phone verification code. When you find that the account number, login password, or fund password, verification code of the website is used by a third party without authorization, or there are other account security issues, you should immediately notify this website effectively and request that the website suspend the service of the website account. . This website reserves the right to take action on your request within a reasonable time, but this website does not accept any responsibility for the consequences (including but not limited to any loss) that you have incurred before taking action. You may not assign, borrow, rent, transfer or otherwise dispose of the account of this website to others without the consent of this website.",
+            "4.2.3 You agree that you will assume all activities (including but not limited to information disclosure, posting information, online click consent or submitting various rules agreements, online renewal agreements or purchasing services) on your account and password. responsibility.",
+            "4.2.4 When you conduct digital asset transactions on this website, you must not maliciously interfere with the normal operation of digital asset transactions and undermine the order of transactions; you must not interfere with the normal operation of this website or interfere with the use of the services of other users by any other means or any other means; Do not maliciously destroy the goodwill of this website by fictitious facts.",
+            "4.2.5 If you have a dispute with other users due to online transactions, you may not request this website to provide relevant materials through judicial or administrative channels.",
+            "4.2.6 Your use of the services provided on this website, the taxable benefits, and all hardware, software, services and other costs, are solely judged and assumed by you.",
+            "4.2.7 You shall abide by this Agreement and other terms of service and operating rules posted and updated from time to time on this website, and you reserve the right to terminate the use of the services provided on this website at any time.",
+            "4.3. Product Rules",
+            "4.3.1 Trading Product Rules You are committed to complying with the following trading rules in the course of trading in this website with other users.",
+            "4.3.1.1 Viewing Transaction Information",
+            "When browsing the transaction information on this website, you should carefully read all the contents contained in the transaction information, including but not limited to price, commission amount, handling fee, buying or selling direction.You fully accept all the content contained in the transaction information and then click the button to trade.",
+            "4.3.1.2 Submitting a request",
+            "You can submit a transaction order after you have reviewed the transaction information and confirmed it. After you submit the transaction entrustment, you authorize this website to represent you in the corresponding transaction combination. This website will automatically complete the matching transaction when there is a transaction that meets your entrusted price without prior notice to you.",
+            "4.3.1.3 Viewing transaction details",
+            "You can confirm your detailed transaction history by checking the corresponding transaction record in the transaction details of the Management Center.",
+            "4.3.1.4 Withdrawal/modification of the entrustment, you have the right to revoke or modify the entrustment at any time before the entrustment has not concluded the transaction.",
+            "4.3.1.5 Officials have the right to suspend the user account without the official approval of the immediate gold service, using third party programs and scripts for trading.",
+            "5. Rights and obligations of this website",
+            "5.1 If you do not have the registration qualification as stipulated in this agreement, this website has the right to refuse your registration. For the registered, this website has the right to cancel your member account. This website reserves the right to hold you or your authorized agent accountable. At the same time, this website reserves the right to decide whether or not to accept your registration under any other circumstances.",
+            "5.2 This website finds that you or your connected account users have the right to suspend or terminate your account and the use of all associated accounts when it is not suitable for high risk investment based on the judgment of this website.",
+            "5.3 This website has the right to suspend or terminate the use of the account when the account user is not the initial registrant of the account.",
+            "5.4 This website has the right to notify you of corrections, update information or suspend or terminate the provision of this website service by means of technical testing, manual sampling and other means of testing that reasonably suspect that the information you provided is incorrect, false, invalid or incomplete.",
+            "5.5 This website reserves the right to correct the information when it finds that there is a material error in any of the information displayed on this website.",
+            "5.6 This website reserves the right to modify, suspend or terminate the services of this website at any time. The right to modify or suspend the service of this website does not need to inform you in advance; if this website terminates one or more services of this website, it terminates from the website. Effective on the date of publication of the termination notice.",
+            "5.7 This website shall take necessary technical means and management measures to ensure the normal operation of this website, and provide necessary and reliable trading environment and transaction services to maintain the order of digital asset transactions.",
+            "5.8 If you have not used this website's member account and password for one year to log in to this website, then this website has the right to cancel your account number. After the account is cancelled, the website has the right to open the corresponding member name to other users for registration.",
+            "5.9 This website protects your digital assets by strengthening technical investment, improving security and other measures. It is obliged to notify you in advance when there is a foreseeable security risk in your account.",
+            "5.10 This website reserves the right to delete any content on the website that does not comply with laws and regulations or the provisions of this website at any time. This website does not need to notify you in advance.",
+            "5.11 This website has the right to request more information or materials according to the requirements of the laws, regulations, rules and orders of your sovereign country or region, and take reasonable measures to meet the requirements of local regulations. You are obliged to cooperate; this website reserves the right to suspend or permanently stop opening this website and some or all of its services to you in accordance with the laws, regulations, rules, orders and other requirements of your sovereign country or region.",
+            "6. Compensation",
+            "6.1 In no event shall our liability for your direct damage exceed the total three-month fee incurred by you from the use of the services of this website.",
+            "6.2 If you violate this Agreement or other laws and regulations, you must pay us at least US$2 million and bear all the costs incurred (including attorneys' fees, etc.). If it is not enough to make up for the actual loss, you must complete it.",
+            "7. The right to seek injunctive relief",
+            "We and you both acknowledge that the common law remedy for breach of contract or possible breach of contract may not be sufficient to cover all the losses we have suffered. Therefore, the non-defaulting party has the right to seek injunctive relief in the event of default or possible breach of contract and all other remedies permitted by common law or equity.",
+            "8. Limitation of Liability and Disclaimer",
+            "8.1 You understand and agree that under no circumstances will we be liable for the following:",
+            "8.1.1 Loss of income;",
+            "8.1.2 trading profit or contract loss;",
+            "8.1.3 Business interruption",
+            "8.1.4 Loss of currency expected to be saved;",
+            "8.1.5 loss of information;",
+            "8.1.6 loss of opportunity, goodwill or reputation;",
+            "8.1.7 Damage or loss of data;",
+            "8.1.8 the cost of purchasing an alternative product or service;",
+            "8.1.9 Any indirect, special or incidental loss or damage arising from infringement (including negligence), breach of contract or any other reason, whether or not such loss or damage can be reasonably foreseen by us; whether or not we have been informed in advance There is a possibility of such loss or damage.",
+            "Articles 8.1.1 to 8.1.9 are independent of each other.",
+            "8.2 You understand and agree that we are not liable for any damages resulting from any of the following:",
+            "8.2.1 We have reasonable grounds to believe that there may be material violations or defaults in your specific transaction.",
+            "8.2.2 We have reasonable grounds to believe that your actions on this website are suspected of being illegal or unethical.",
+            "8.2.3 Fees and losses arising from the purchase or acquisition of any data, information or transactions, or alternative actions, through the services of this website.",
+            "8.2.4 Your misunderstanding of the services of this website.",
+            "8.2.5 Any other loss related to the services provided on this website that are not caused by us.",
+            "8.3 We are concerned with the failure of information network equipment maintenance, information network connection failure, computer, communication or other system failures, power failures, weather causes, accidents, strikes, labor disputes, riots, uprisings, disturbances, lack of productivity or production materials, fires , floods, storms, explosions, wars, bank or other partner reasons, digital asset market collapse, government actions, judicial or administrative orders, other causes that are beyond our control or that we are unable to control or third parties We are not responsible for any inability to service or delay the service and your loss.",
+            "8.4 We cannot guarantee that all information, programs, texts, etc. contained in this website are completely safe and free from any malicious programs such as viruses and Trojans, so you may log in, use any service on this website or download and use any program downloaded from this website. , information, data, etc., are your personal decisions and bear the risks and possible losses.",
+            "8.5 We do not make any guarantees or promises to any information, products and services of any third-party websites linked to this website and any other content that is not our subject, if you use any services or information provided by third-party websites. And the products are all determined by you and bear all responsibility arising therefrom.",
+            "8.6 We make no warranties, express or implied, regarding your use of the services of this website, including but not limited to the suitability of the services provided on this website, without errors or omissions, continuity, accuracy, reliability, and for a particular purpose. At the same time, we make no commitment or guarantee of the validity, accuracy, correctness, reliability, quality, stability, completeness and timeliness of the technology and information involved in the services provided on this website. It is your personal decision to log in or use the services provided on this website and bear the risks and possible losses. We make no warranties, express or implied, regarding the market, value and price of digital assets.\nYou understand and understand that the digital asset market is unstable, and the price and value will fluctuate or collapse at any time. Trading digital assets is your personal freedom to choose and decide and bear the risks and possible losses.",
+            "8.7 Our warranties and undertakings set forth in this Agreement are the sole warranties and representations of the Services provided by us in connection with this Agreement and this Site and supersede any other warranties and undertakings, whether written or oral, Express or implied. All such warranties and representations represent our own commitments and warranties and do not guarantee that any third party will comply with the warranties and undertakings in this Agreement.",
+            "8.8 We do not waive any rights not covered by this Agreement that limit, exempt or offset our liability for damages to the fullest extent applicable to the law.",
+            "8.9 Upon your registration, you acknowledge that any action taken by us in accordance with the rules set forth in this Agreement is at your own risk.",
+            "9.  Termination of the agreement",
+            "9.1 This website has the right to cancel your account of this website in accordance with the terms of this agreement. This agreement is terminated on the date of cancellation of the account.",
+            "9.2 This website is entitled to terminate all services of this website in accordance with the terms of this agreement. This agreement is terminated on the date of termination of all services on this website.",
+            "9.3 Upon termination of this Agreement, you are not entitled to request that the Website continue to provide any services or perform any other obligations, including but not limited to requiring the Site to retain or disclose to you any information in its original Website Account, to you or The third party forwards any information it has not read or sent, and so on.",
+            "9.4 The termination of this Agreement does not affect the commitment of the defaulting party to the breach of contract.",
+            "10.  Intellectual property rights",
+            "10.1 All intellectual achievements contained in this website include, but are not limited to, website logos, databases, website design, text and graphics, software, photographs, videos, music, sounds and combinations thereof, software compilation, related source code and software (including small The intellectual property rights of the application and script are owned by this website. You may not copy, alter, copy, transmit or use any of the foregoing materials or content for commercial purposes.",
+            "10.2 All rights (including but not limited to goodwill and trademarks, logos) contained in the name of this website are owned by the company.",
+            "10.3 By accepting this Agreement, you represent the copyright of any form of information you have voluntarily published on this website, including but not limited to: reproduction rights, distribution rights, rental rights, exhibition rights, performance rights, screening rights, broadcasting rights, Information network communication rights, filming rights, adaptation rights, translation rights, compilation rights, and other transferable rights that should be enjoyed by the copyright owner are exclusively and freely transferred to this website. This website has the right to file a lawsuit and obtain full compensation for any subject infringement. . The validity of this Agreement and the content of any work protected by the Copyright Law that you post on this website, whether formed before the signing of this Agreement or after the signing of this Agreement.",
+            "10.4 You may not illegally use or dispose of the intellectual property rights of this website or others during the use of this website. You may not post or authorize the information published on this website in any form for use by other websites (and media).",
+            "10.5 Your access to this website or the use of any of the services provided on this website is not considered to be any intellectual property rights transferred to you.",
+            "11. Information protection",
+            "11.1 Scope of application",
+            "11.1.1 When you register a website account or use an account, the personal registration information you provide according to the requirements of this website, including but not limited to telephone number, email information, identity document information.",
+            "11.1.2 When you use the services of this website, or when you visit the website of this website, the value of the server on your browser is automatically received and recorded by this website, including but not limited to data such as IP address and the webpage record you requested.",
+            "11.1.3 The relevant data collected by this website for your trading on this website, including but not limited to transaction records.",
+            "11.1.4 Other personal information obtained by this website through legal channels.",
+            "11.2 Information usage",
+            "11.2.1 Without your additional consent, your registration on this website is deemed to be your consent to the collection and use of all kinds of information on this website, as listed in 11.1. You understand and agree that this website can The information you collect is used for but not limited to the following purposes:",
+            "11.2.1.1 to provide you with the services of this website;",
+            "11.2.1.2 Report to relevant departments based on the requirements of relevant authorities of sovereign countries or regions;",
+            "11.2.1.3 When you use the services of this website, this website uses your information for legitimate purposes such as authentication, customer service, security, fraud monitoring, marketing, archiving and backup purposes, or cooperating with third parties to promote websites. Ensure the security of the products and services provided to you by this website;",
+            "11.2.1.4 Information collection and organization to help the website design new products and services and improve the existing service purposes of this website;",
+            "11.2.1.5 In order to give you an idea of the specifics of the services on this website, you agree that this website will send marketing notices, commercial electronic information and advertisements related to you in place of the advertisements that are generally served;",
+            "11.2.1.6 This website transfers or discloses your information to any non-associated third party for the purpose of completing the merger, division, acquisition or transfer of assets;",
+            "11.2.1.7 Software certification or management software upgrade;",
+            "11.2.1.8 Invite you to participate in the investigation of the services of this website;",
+            "11.2.1.9 Data analysis for cooperation with government agencies, public affairs agencies, associations, etc.;；",
+            "11.2.1.10 Used for all other lawful purposes and for other purposes authorized by you.",
+            "11.2.2 This website does not sell or lend your personal information to anyone else unless you have prior permission from you. This website also does not allow any third party to collect, edit, sell or distribute your personal information by any means.",
+            "11.3 This website keeps confidentiality of customer identity information and transaction information obtained, and shall not provide customer identity information and transaction information to any unit or individual. Due to the requirements of laws, regulations, decrees, orders, etc. of relevant sovereign countries or regions, this website is required to provide except.",
+            "12. Calculating all transaction calculation results are verified by us. All calculation methods have been posted on the website, but we cannot guarantee that the use of the website will not be interfered or error-free.",
+            "13.  Export Controls You understand and acknowledge that, in accordance with the laws of the Republic of Seychelles, you may not export, re-export, import or transfer any materials (including software) on this website, so you warrant that you will not actively implement or assist or Participate in any of the above-mentioned violations of the regulations or transfer or other violations of applicable laws and regulations; if such circumstances are discovered, we will actively report to us and assist us.",
+            "14. The transfer of the rights and obligations stipulated in this Agreement also binds the assignee, heir, executor and administrator of the parties who have obtained the benefits from the rights and obligations. You may not assign to any third party without our consent, but we may at any time transfer our rights and obligations under this Agreement to any third party and give you 30 days notice in advance.",
+            "15.  Separability If any provision of this Agreement is deemed unenforceable, invalid or illegal by any court of competent jurisdiction, it does not affect the validity of the remaining provisions of this Agreement.",
+            "16.  Non-Agency Relationships Nothing in this Agreement shall be deemed to create, imply or otherwise treat us as your agent, trustee or other representative, except as otherwise provided in this Agreement.",
+            "17.  Abstention We or any of your waiver of liability for breach of contract or other liability as agreed in this Agreement shall not be deemed or construed as a waiver of other breach of contract; any failure to exercise any right or remedy shall not be construed in any way as Abandonment of rights or remedies.",
+            "18. All headings are for convenience only and are not intended to extend or limit the content or scope of the terms of the agreement.",
+            "19.  Applicable Laws All the contents of this Agreement are contracts concluded under the laws of the Republic of Seychelles. The establishment, interpretation, content and enforcement of the Agreement shall be governed by the relevant laws of the Republic of Seychelles; any cause or service related to this Agreement The resulting claim or lawsuit shall be governed by and construed and enforced in accordance with the laws of the Republic of Seychelles. For the avoidance of doubt, this clause expressly applies to any infringement claim against us. Any court of jurisdiction or litigation against us or a claim or lawsuit relating to us is in the Republic of Seychelles. You have unconditionally obtained exclusive jurisdiction to conduct proceedings and appeals in the courts of the Republic of Seychelles. You also unconditionally agree to the dispute or issue relating to this Agreement or any claim and litigation arising from the place of occurrence or the exclusiveness of the court in the Republic of Seychelles, if there is a special agreement on the jurisdiction of the other business of this website . The inconvenient court principle does not apply to courts based on the choice of these Terms of Service.",
+            "20.  Effectiveness and interpretation of the agreement",
+            "20.1 This Agreement is effective when you click on the registration of the registration page of this website and complete the registration process, obtain the account number and password of this website, and bind to this website and you.",
+            "20.2 The final interpretation of this Agreement is the property of this website."
+        ]
+    }
+}

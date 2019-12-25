@@ -1,0 +1,170 @@
+@import "@/style/mixin.scss";
+
+.alpt {
+  .banner {
+    height: auto;
+    padding-top: 30px;
+
+    .title {
+      .logo {
+        width: 58px;
+        height: 46px;
+      }
+
+      h3 {
+        font-size: 18px;
+        padding-bottom: 10px;
+      }
+    }
+
+    .text {
+      padding: 20px 0;
+
+      p {
+        font-size: 14px;
+        padding: 0 20px;
+        width: calc(100% - 40px);
+      }
+    }
+
+    ul {
+      width: calc(100% - 40px);
+      padding: 20px;
+
+      li {
+        width: 2.084rem;
+        height: 2.068rem;
+
+        h4 {
+          font-size: 0.19rem;
+        }
+
+        p {
+          font-size: 0.13rem;
+          padding: 0 10px;
+          text-align: center;
+        }
+      }
+    }
+  }
+
+  .w {
+    width: 100%;
+  }
+
+  .con {
+    .run {
+      padding: 50px 20px;
+
+      h4 {
+        font-size: 18px;
+        margin-bottom: 20px;
+      }
+
+      p {
+        font-size: 14px;
+      }
+
+      ul {
+        margin: 0;
+        padding-top: 20px;
+        height: 300px;
+
+        li {
+          line-height: 2.12rem;
+          font-size: 0.16rem;
+          width: 2.12rem;
+          height: 2.12rem;
+          position: absolute;
+          &:nth-child(1) {
+            top: 0.19rem;
+            left: 1.45rem;
+          }
+          &:nth-child(2) {
+            top: 1.36rem;
+            left: 0.24rem;
+          }
+          &:nth-child(3) {
+            top: 2.55rem;
+            left: 1.45rem;
+          }
+
+          &:nth-child(4) {
+            top: 0.59rem;
+            left: 2.68rem;
+            width: 3.7rem;
+            height: 3.7rem;
+            .active {
+              position: fixed;
+              left: 50%;
+              top: 50%;
+              transform: translate(-50%, -50%) scale(3);
+            }
+          }
+        }
+      }
+    }
+
+    .alptForm {
+      h4 {
+        font-size: 18px;
+        margin-bottom: 30px;
+      }
+
+      .img_list {
+        padding: 0 10px;
+
+        span {
+          width: 2.55rem;
+          height: 2.55rem;
+          margin: 0;
+        }
+
+        &:nth-child(3) {
+          margin-top: -15px;
+        }
+      }
+    }
+
+    .alptValue {
+      .box {
+        h4 {
+          padding: 70px 0 40px 0;
+          font-size: 18px;
+        }
+
+        .text {
+          width: 90%;
+          box-sizing: border-box;
+          padding: 0.2rem 0;
+          margin-bottom: 20px;
+
+          h5 {
+            font-size: 15px;
+          }
+
+          p {
+            font-size: 14px;
+            padding: 0 0.3rem;
+          }
+        }
+      }
+
+      ul {
+        padding: 25px 15px;
+        li {
+          width: 160px;
+          h5 {
+            font-size: 16px;
+          }
+          .fund_desc {
+            height: 220px;
+            p {
+              font-size: 14px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

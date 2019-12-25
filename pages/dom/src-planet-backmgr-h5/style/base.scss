@@ -1,0 +1,33 @@
+$color: #03032C !important;
+$font-color: #fff !important;
+$color2: #081A44 !important;
+.vxe-table, .vxe-table--header-wrapper, .vxe-table--body-wrapper {
+  border-top-color: none !important;
+  background-color: $color;
+  * {
+    color: $font-color;
+    background-color: $color;
+  }
+}
+.van-tabs__nav {
+  background-color: $color;
+  * {
+    color: $font-color;
+  }
+}
+.van-tabs__wrap {
+  border: none !important;
+  &:after {
+    border: none !important;
+  }
+}
+.van-pagination, .van-pagination__item {
+  background-color: $color2;
+  * {
+    color: $font-color;
+  }
+  &::after {
+    border-bottom: none;
+    border-top: none;
+  }
+}

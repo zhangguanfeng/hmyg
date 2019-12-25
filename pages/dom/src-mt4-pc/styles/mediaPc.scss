@@ -1,0 +1,57 @@
+$width: 1200px;
+
+@media (min-width: 1250px) {
+  .headerHome {
+    .main {
+      width: $width;
+    }
+  }
+  .footerHome {
+    .content {
+      width: $width;
+    }
+  }
+  .home {
+    .banner {
+      height: 400px;
+      
+      .bannerImg {
+        height: 400px;
+      }
+    }
+
+
+
+    .introduce {
+
+      &_icon {
+        .el-row {
+          width: $width;
+        }
+      }
+
+      &_text {
+        width: $width;
+      }
+    }
+
+    &_content {
+      width: $width;
+    }
+
+    .download, .news, .affiche {
+      .content {
+        width: $width;
+      }
+    }
+
+    .download {
+      .describe {
+        background-size: contain !important;
+      }
+    }
+  }
+  .projectList, .projectDetails, .jk-aside-main, .newsDetail, .userIndex {
+    width: $width;
+  }
+}

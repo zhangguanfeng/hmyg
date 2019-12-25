@@ -1,0 +1,91 @@
+//------------------ 变量 ------------------
+
+//  环境变量
+$color: #5B0EB2;
+$bgColor: #EAEAFF;
+
+
+
+$color-bg:#fff;
+$color-text:#626262;
+$color-border:#BEC4D3;
+
+$color-up:#E1614E;
+$color-down:#10AD7E;
+$color-up-bg:#fff4f1;
+$color-down-bg:#e6f5e7;
+
+$color-dark-bg:#141725;
+$fall-color: #26A69A;
+$down-color: #EF5350;
+
+// 省略 ……
+.omit {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+}
+
+
+@mixin omit($line-height, $line: 1) {
+  line-height: $line-height;
+  max-height: $line-height * $line;
+  word-break: break-all;
+  height: 100%;
+
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: $line;
+  overflow: hidden;
+}
+
+
+
+
+@mixin media($point) {
+  @if($point == xs) {
+    @media screen and (max-width: 760px) {
+      @content;
+    }
+  }
+  @if($point == sm) {
+    @media (min-width: 760px) and (max-width: 1000px) {
+      @content;
+    }
+  }
+  @else if($point == md){
+    @media (min-width: 1001px) and (max-width: 1250px) {
+      @content;
+    }
+  }
+}
+
+@mixin react($border-color:#dbc5a6, $border-radius:6px) {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+  border: 1px solid $border-color;
+  width: calc(100% - 14px);
+  height: calc(100% - 14px);
+  border-radius: $border-radius;
+}
+
+@mixin react-bg($border-color:#dbc5a6, $pd:2px, $border-raduis:6px) {
+  position: relative;
+
+  &::before {
+    @include react($border-color, $border-raduis);
+    top: calc(50% - #{$pd});
+    left: calc(50% + #{$pd});
+  }
+
+  &::after {
+    @include react($border-color, $border-raduis);
+    top: calc(50% + #{$pd});
+    left: calc(50% - #{$pd});
+  }
+}

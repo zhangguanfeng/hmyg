@@ -1,0 +1,187 @@
+$width1: 900px;
+
+@media (min-width: 1001px) and (max-width: 1250px) {
+  #app {
+    .headerHome {
+      // .logo {
+      //   margin-right: 30px;
+      // }
+      .main {
+        width: $width1;
+      }
+
+      .jk-menu {
+        .el-menu-item {
+          margin: 0 10px;
+          font-size: 15px;
+
+          &.is-active {
+            font-size: 16px;
+          }
+        }
+      }
+      .el-submenu__title {
+        padding: 0 0 0 20px;
+      }
+    }
+
+    .mainContent {
+      min-height: calc(100vh - 60px - 464px);
+    }
+
+    .footerHome {
+      .content {
+        width: $width1;
+      }
+
+      .contact-item{
+        display: flex;
+
+        span:first-child{
+          width: 110px;
+          text-align: right;
+        }
+      }
+    }
+
+    .home {
+      .banner {
+        height: 300px;
+
+        .bannerImg {
+          height: 300px;
+        }
+      }
+
+
+
+      .introduce {
+        &_icon {
+          .el-row {
+            width: $width1;
+          }
+        }
+
+        &_text {
+          width: $width1;
+        }
+      }
+
+      &_content {
+        width: $width1;
+      }
+
+      .mall {
+        .ghome,
+        .spo {
+          height: 230px;
+        }
+
+        .el-button {
+          margin-top: 173px;
+        }
+      }
+
+      .download,
+      .news,
+      .affiche {
+        .content {
+          width: $width1;
+        }
+      }
+
+      .download {
+        .describe {
+          background-size: 34% !important;
+        }
+
+        .jkjf {
+          width: 100%;
+          padding-right: 300px;
+          padding-top: 60px;
+        }
+      }
+
+      .news {
+        .first {
+          height: 280px;
+        }
+
+        .right {
+          height: 135px;
+
+          h3{
+            margin: 10px 0;
+          }
+
+          img {
+            width: 220px;
+          }
+        }
+      }
+    }
+
+    .projectList,
+    .projectDetails,
+    .jk-aside-main,
+    .newsDetail,
+    .userIndex {
+      width: $width1;
+    }
+
+    //项目列表
+    .projectList {
+      .riseFall {
+        font-size: 14px;
+
+        div {
+          height: 40px;
+          line-height: 40px;
+        }
+
+        .trading {
+          font-size: 18px;
+        }
+
+        .percent {
+          font-size: 18px;
+        }
+
+        .price {
+          font-size: 16px;
+        }
+
+        .price-prompt {
+          font-size: 16px;
+        }
+
+        .tradingVolume {
+          font-size: 14px;
+        }
+      }
+      .market_content--list {
+        font-size: 13px;
+      }
+    }
+
+    .companyIntroduction {
+      .introduction {
+        padding: 20px 0;
+        font-size: 14px;
+
+        img {
+          width: 240px;
+        }
+      }
+    }
+
+    .helpCenter {
+      .content {
+        padding: 15px 30px;
+        img {
+          max-width: 100%;
+        }
+      }
+    }
+  }
+}

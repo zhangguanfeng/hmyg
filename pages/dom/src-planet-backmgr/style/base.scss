@@ -1,0 +1,47 @@
+body, ul, li {
+  padding: 0 0 0 0;
+  margin: 0;
+}
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: left;
+  color: #2c3e50;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+$color: #39C6B4 !important;
+.primary-btn, .el-button--primary {
+  background: $color;
+  border-color: $color;
+}
+.c-page {
+  .number.active {
+    background: $color;
+  }
+  .el-select .el-input.is-focus .el-input__inner {
+    border-color: $color;
+  }
+}
+.today *, .el-picker-panel__shortcut:hover, .el-date-table td.available:hover, .el-tabs__item.is-active, .el-tabs__item:hover {
+  color: $color;
+}
+
+.start-date *, .end-date *, .el-tabs__active-bar.is-top {
+  background-color: $color;
+  color: #fff !important;
+}
+.el-input__inner:focus, .el-range-editor.is-active {
+  border-color: $color;
+}
+.el-select-dropdown {
+  .selected {
+    color:  $color;
+  }
+}
+circle {
+  stroke: $color;
+}

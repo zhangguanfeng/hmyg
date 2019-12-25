@@ -1,0 +1,226 @@
+{
+  "disclaimer": {
+    "title": "Disclaimer and Limitation of Liability",
+    "header": [
+      "Distinguished User：",
+      "Thank you for choosing AlphaWallet service. AlphaWallet specifically reminds you before using AlphaWallet (hereinafter referred to as 'AlphaWallet' or 'this software'), please read the Terms of Disclaimer and Limitation of Liability carefully to ensure that you fully understand the terms of this agreement and consider risks independently."
+    ],
+    "main": [
+      "1. You understand and agree that, to the extent permitted by law, AlphaWallet may only provide services in accordance with the current state of technology and conditions. AlphaWallet will not be responsible for the failure of AlphaWallet to provide services normally for the following reasons:",
+      "（1）AlphaWallet system downtime maintenance or upgrade.",
+      "（2）Caused by force majeure such as typhoon, earthquake, flood, lightning or terrorist attack;",
+      "（3）Your mobile device hardware and software and communication lines, power lines have failed;",
+      "（4）You use the AlphaWallet service improperly or without AlphaWallet authorization or approval;",
+      "（5）Due to viruses, Trojan horses, malicious program attacks, network congestion, system instability, system or equipment failures, communications failures, power failures, bank or other reasons or government actions;",
+      "（6）Any other reason not caused by AlphaWallet;",
+      "2. AlphaWallet is not responsible for the following situations:",
+      "（1）Loss of digital tokens due to user loss of mobile device, deletion and non-backup of AlphaWallet, deletion and non-backup wallet, stolen wallet or forgotten wallet password, private key, mnemonic, Keystore;",
+      "（2）Leaking your wallet password, private key, mnemonic, Keystore by yourself or borrowing, transferring or authorizing others to use your mobile device or AlphaWallet wallet, or downloading the AlphaWallet app without the official AlphaWallet channel or other unsafe ways to use AlphaWallet application to cause the loss of digital token;",
+      "（3）Loss of digital tokens due to user misuse (including, but not limited to, the wrong transfer address you entered, the problem of the transfer node server you choose );",
+      "（4）Loss of digital tokens due to misuse by users who do not understand the nature of blockchain technology;",
+      "（5）Time lags and Instability of blockchain system causes inaccurate trading record of users on the blockchain copied by AlphaWallet;",
+      "（6）Risks and consequences of users operating on the third-party Dapps.",
+      "（7）Risks and consequences of user operation on third party DApp",
+      "3. You understand that AlphaWallet is only a tool for your digital token management and a third-party open platform where third-party project parties and developers make their projects and applications open. AlphaWallet cannot control the quality, safety or legality of products and services provided by third party DApp and third party financial applications, the authenticity or accuracy of information, and the ability of the other party to fulfil its obligations under the agreements with you. All your transactions in third party DApp and third party financial applications are your personal actions. A binding contractual relationship is established between you and your counterpart and has nothing to do with AlphaWallet. AlphaWallet reminds you that you should use your discretion to determine the authenticity, legitimacy and validity of login DApp, financial applications and related information. The risks arising from your exchange with any third party shall also be borne by you.",
+      "4. AlphaWallet may serve you and your counterparties at the same time. You agree to explicitly exempt any actual or potential conflict of interest in AlphaWallet’s such possible behaviors, and do not assert that there is a legal defeat in AlphaWallet’s service, nor do you add to AlphaWallet's responsibilities or due diligence.",
+      "5. AlphaWallet does not provide the following forms of guarantee:",
+      "（1）The service of AlphaWallet will meet all your requirements;",
+      "（2）Any technology, product, service and information you obtain from AlphaWallet service will meet your expectations;",
+      "（3）AlphaWallet guarantees the timeliness, accuracy, completeness and reliability of information on digital token market transactions captured from third-party exchanges;",
+      "（4）Your trading parties on AlphaWallet will fulfill their obligations in the transaction agreement with you in a timely manner.",
+      "6. In any case, AlphaWallet’s total liability for breach of contract under this agreement shall not exceed (1) 0.1 Ethereum; or (2) RMB 500, whichever is higher.",
+      "7. You understand that AlphaWallet is only a tool for users to manage digital tokens and display transaction information. AlphaWallet does not provide legal, tax or investment advice services. You should seek advice from professionals in law, taxation, and investment, and AlphaWallet will not be responsible for any investment losses, data loss, etc. that you suffer while using our services.",
+      "8. Your use of the AlphaWallet Service is regarded as your civil capacity, and you are responsible for the legal consequences of your operation. AlphaWallet is not responsible for it.",
+      "9. You understand that according to the requirements of relevant Chinese policies and regulations, we may change our user access standards from time to time, limiting the scope and manner of providing services to a particular group.",
+      "This disclaimer means that the relevant clauses modified in the future will apply as of the date of publication. Your use of this application is deemed as acceptance of the relevant provisions of the disclaimer, that is, the validity of the disclaimer clause cannot be countered by other reasons in the future.",
+      "AlphaWallet"
+    ]
+  },
+  "googleAuthenticator": {
+    "title": "User Guide for Google Authenticator",
+    "main": [
+      "I. What is Google Authenticator?",
+      "Lots of websites require Google Authenticator for login or operation, which means the user is required to enter a dynamic password after entering the username and password. That dynamic password is generated by the mobile APP Google Authenticator, which, in addition to being independent from the Internet, automatically updates every 30 seconds. Doesn’t it sound powerful?",
+      "Google Authenticator is a dynamic password tool launched by Google LLC to solve the problem of users’ Google accounts being maliciously attacked. After initiating the Google Authenticator service, the user is required to enter a dynamic password generated from the mobile terminal for login. In that way, even if your account and password for a digital currency exchange are hacked, it will require a six-digit dynamic password (which changes every 30 seconds) from the mobile Google Authenticator to login the exchange. ",
+      "II. Steps of Installation and Use",
+      "1. If you are using the iOS system (iPhone or iPad), please visit the App Store, search “Google Authenticator” and click “Get” to complete the installation.",
+      "If you are using the Android system (Android mobile phones), please login the App store and search “Google Authenticator” to download it.",
+      "2. After installing the software, you will see the following pages.",
+      "3. Click the “Scan Bar Code” in the above picture and you will see the following page. Click “Update”.",
+      "4. Use your phone to scan the following QR code and enter the dynamic password on your phone activate the two-step authentication on the website. Properly save the ciphertext for use in recovery. ",
+      "III. Causes and Analysis of Authentication Code Failure",
+      "Due to various reasons, many people are stuck by messages such as “Invalid code”, “Incorrect Code” or “has expired”. What exactly are the causes?",
+      "No. I: More than 30 seconds",
+      "The authentication code automatically updates every 30 seconds and if the user is entering the code at the point of an update, the original one will be invalidated. Therefore, note the time limit when entering the code. If time is not enough, wait until it updates before keying in. ",
+      "No. 2: Out-of-sync time",
+      "The mobile phone time shall sync with the time of Google Authenticator. But the code was still invalid even after I had chosen to sync. Then it occurred to me that “Scientific Surfing” would be required to sync with the authenticator. So I opened VPN and selected sync and finally the problem was settled. ",
+      "The steps are as follows:",
+      "Android:",
+      "1.Open “Scientific Surfing”",
+      "2.Enter the home page of Google Authenticator and click the three dots on the upper right corner",
+      "3.Select “Settings",
+      "4.Select “Calibrate the time used to generate an authentication code”",
+      "5.Select “Sync now”",
+      "6.After that, the APP will remind that the sync has been done and it will work properly.",
+      "Apple Users:",
+      "1.Open “Scientific Surfing”",
+      "2.Enter Apple settings (Note that it is not the settings of Google Authenticator)",
+      "3.Select “General”",
+      "4.Select “Date & Time”",
+      "5.Turn on “Set Automatically”",
+      "6.If it has been turned on, turn it off first and then reactivate it after a few seconds"
+    ]
+  },
+  "applicationDetails": {
+    "appName": "",
+    "appProp": "",
+    "destext": "",
+    "previewTitle": "Application Review",
+    "detailsTitle": "Application Introduction",
+    "download": "Download App",
+    "openapp": "Start App"
+  },
+  "download": {
+    "title": "Download the corporate release version",
+    "download": "Click to download",
+    "install": [
+      "iOS installation tutorial",
+      "1.The following box will pop up the first time you open AlphaWallet.",
+      "2.In the 'Settings' - 'General' - 'Device Management' of the phone, find the certificate of AlphaWallet.",
+      "3.Click on the 'Trust' certificate to start using AlphaWallet."
+    ],
+    "tips": "non-Android、iOS"
+  },
+  "getRedEnvlp": {
+    "coinName": "red packet",
+    "name": "From",
+    "title": "Congratulations",
+    "btn": "Receive immediately",
+    "rule": [
+      "Rules for receiving red packet.",
+      "1.Enter phone number. Click to receive red packet after verification.",
+      "2.Download and set AlphaWallet. Register and login with the phone number.",
+      "3.The red packet will be deposited in 'My Assets', and the collection record can be viewed in the 'Transaction History'.",
+      "4.Only one time per person for the same red packet."
+    ]
+  },
+  "redEnvlpRegister": {
+    "top": [
+      "'s",
+      "red envelope"
+    ],
+    "center": [
+      "Enter your phone",
+      "Captcha",
+      "SMS code",
+      "Verification code",
+      "Reacquire",
+      "Click to Receive red packets"
+    ],
+    "tips": {
+      "phone_num": "Please enter your phone number",
+      "phone_err": "Wrong phone number",
+      "picCode_num": "Captcha",
+      "picCode_err": "Captcha",
+      "captcha_num": "SMS code",
+      "captcha_err": "SMS code"
+    }
+  },
+  "redEnvlp": {
+    "title": [
+      "red packet,altogether",
+      "Hours",
+      "Minutes was robbed",
+      "Already received ",
+      ", was snapped ",
+      "'s ",
+      " red packet"
+    ],
+    "tips": [
+      "You have already received it.",
+      "You are late for the red packet has been sent.",
+      "You are late for the red packet has expired.",
+      "Red packet amount has been transferred to your account：",
+      "Download AlphaWallet",
+      "Loading"
+    ]
+  },
+  "financialDetails": {
+    "card": [
+      "预计年华收益率",
+      "随存随取",
+      "低风险",
+      "1SPO起投"
+    ],
+    "rules": [
+      "交易规则",
+      "查看规则",
+      "T日08:00（GMT+8）之前转入，T日计息；T日8:00（GMT+8）之后转入，T+1日开始计息",
+      "T日08:00（GMT+8）之前转出，资金将在T+1日08:00-10:00到账；T日8:00（GMT+8）之后转出，资金将在T+2日8:00-10:00到账"
+    ],
+    "productHighlights": [
+      "产品亮点",
+      "低额起投",
+      "低风险"
+    ],
+    "buy": "立即购买"
+  },
+  "rulesDetails": [
+    "<h4>产品介绍</h4><div> <p> Ghome活期是AlphaWallet打造的一款低风险，具备稳定收益，并且可以随时存取的增值产品。</p><p>用户可以将自己闲置的资产从云端钱包转入增益账户，按天计息，无最低存币量的限制，具备随存随取，低风险等特点。活期是AlphaWallet推出的特色数字货币增值服务，依托完善的风控体系保证策略的稳健。</div><h4>转出转入规则</h4><div>用户可以随时将云端钱包的资产转入增益账户购买Ghome活期，实时到账\n\nT日08:00（GMT+8）之前转入，T日计息；T日8:00（GMT+8）之后转入，T+1日开始计息\n\nT日08:00（GMT+8）前转出，资金将在T+1日8:00-10:00到账，T日08:00（GMT+8）后转出，资金将在T+2日8:00-10:00到账</div><h4>限额规则</h4><div>Ghome活期每日转入和转出暂不设定不限额。</div>",
+    "<h4>常见问题 （FAQ）</h4><p>Q：是否有锁定期及其他费用</p> <div>",
+    "个月 ，从购买成功后开始计算，锁定期到后一次性返还本金及利息，将自动返回到转入钱包\n\n会收取一定的手续费（赎回、管理费）</div> <p>Q：如何购买该产品</p> <p>1. 如果您还不是 AlphaWallet 用户，请先下载 AlphaWallet. [<a href='https://walletapp.AlphaWallet.io/#/downloadWalletApp?lang=zh'>立即下载</a>]</p> <p>2. 如果您已经是 AlphaWallet 用户，请参考以下步骤：</p> <ul><li>打开 AlphaWallet  Wallet 云端钱包登录后, 点击下方标签中“理财”板块</li> <li>点击需要购买的理财产品，按操作说明购买</li> <li>从云端账户钱包可免费划转到财富账户，如果您的云端账户中没有该资产，您可以先转入云端钱包账户</li> <li>之后无需其他操作，坐等收益啦，您可以从钱包中进入理财账户查看每日收益，锁定期到后本金及收益会自动返回您的钱包</li></ul>",
+    "<h4>细则</h4> <ul class='rules'><li>【额度】1SPO起购</li><li>【锁定周期】本产品锁定周期",
+    "个月，从购买完成后开始计息，锁定期内买入的产品不可取出，一旦购买，不可撤销</li><li>【计息方式】从购买完成后开始计息，",
+    "个月后方可一次性返回本金及收益</li><li>** 本产品提及的预期收益率仅指Ghome资产增益，AlphaWallet不承担Ghome市值变化带来的风险，请用户知晓。</li></ul>"
+  ],
+  "orderStatus": {
+    "account": "账号",
+    "name": "名称",
+    "amount": "金额",
+    "orderNumber": "订单号",
+    "return": "返回理财",
+    "pay": "立即支付"
+  },
+  "financingBuy": {
+    "payment": "支付方式",
+    "buy": "买入",
+    "confirm": "确认买入",
+    "continue": "到期续投"
+  },
+  "transactionCom": {
+    "balance": "余额",
+    "placeholder": "请输入金额",
+    "all": " 全部"
+  },
+  "currentFinancialRule": {
+    "intro": {
+      "title": "Product introduction",
+      "content": [
+        "Current financing management is a product with low risk and stable profit. Assets can be deposited and withdrawn at any time and is designed for increasing coin value.",
+        "Users can transfer their idle assets into the cloud wallet. It possesses features such as interest calculated on a daily basis, no limitation of the minimum amount of deposits, Each type of coin has minimum interest rate requirement. Current wealth management is a unique digital currency value-added service launched by AlphaWallet who supervises it and relies on a comprehensive risk control system to ensure the stability of the strategy."
+      ]
+    },
+    "rule": {
+      "title": "Rules of transfer",
+      "content": [
+        "Users are able to transfer assets to cloud wallet account at any time which will arrive immediately.",
+        "Interest is counted from T when assets transferring in before 8am on T. Interest is counted from T+1 when assets transferring in after 8am on T.",
+        "Transferred before 8am (GMT+8) on T, assets will arrive from 8am to 10am on T+1. Otherwise, assets will arrive from 8am to 10am on T+2."
+      ]
+    }
+  },
+  "statement":{
+    "financialStatement":{
+      "title":"Financial disclaimer",
+      "content1":"AlphaWallet adheres to the principles of fairness, fairness, openness, rationality, legality and humanization: Thank you very much for choosing AlphaWallet platform. We sincerely give you relevant risk tips on any project contract you choose on AlphaWallet platform.",
+      "content2":"Digital assets are high-income and high-risk financial products. You should determine the authenticity, legitimacy and validity of financial applications and related information through your own careful judgment. The risk of any digital asset you choose should also be borne by you. AlphaWallet will serve you wholeheartedly.",
+      "content3":"AlphaWallet will do its best to provide users with authoritative, credible, accurate, complete and timely data and information. All data comes from legitimate channels, but we can not fully guarantee that the data is 100% accurate and complete. The data published in AlphaWallet are for reference only and do not constitute any investment proposals. Any judgment, inference or viewpoint made by users on the basis of data does not represent AlphaWallet's position; users clearly agree that the risks and consequences of using data will be borne by themselves. Therefore, under no circumstances will AlphaWallet be liable for any failure in making investment decisions based on our data."
+    },
+    "applicationStatement":{
+      "title":"Application disclaimer",
+      "content1":"ALL the DAPPS in AlphaWallet are provided by the third-party. AlphaWallet is only a tool for your digital token management. AlphaWallet does not control the quality, security or legality of the products and services provided by third-party DApps and Crypto Currency Financial Products, the authenticity or accuracy of the information, and the ability of the counterparty to perform its obligations under the agreement with you. All your transactions in third-party DApps and Crypto Currency Financial Products are your personal actions. A binding contractual relationship is established between you and your counterparts, and has nothing to do with AlphaWallet. AlphaWallet reminds you to use your discretion to determine your login DApp and the authenticity, legality, and validity of related information. The risk arising from your dealings with any third party should also be at your own risk.",
+      "content2":"AlphaWallet tries its best to provide authoritative, credible, accurate, complete and timely data and information for users. All data comes from legitimate channels, but we can not guarantee 100% accuracy and integrity of data. The data released by our company are for reference only and do not constitute any investment proposals. Any judgments, inferences or opinions made by users on the basis of data do not represent the position of our company; users clearly agree that the risks and consequences of using data will be borne by themselves. Therefore, in any case, our company will not assume any liability for the failure of the investment decision made by the user based on our data."
+    }
+  }
+
+}
